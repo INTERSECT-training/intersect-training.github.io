@@ -17,3 +17,4 @@ header:
 
 * [Daniel S. Katz](http://danielskatz.org/), University of Illinois Urbana-Champaign
 * [Mozhgan Kabiri chimeh](http://mkchimeh.com/), NVIDIA
+* [David E. Bernholdt](https://csmd.ornl.gov/profile/david-bernholdt), Computer Science and Mathematics Division, Oak Ridge National Laboratory
