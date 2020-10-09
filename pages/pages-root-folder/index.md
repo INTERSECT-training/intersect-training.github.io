@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /participation/
+  url: /participate/
   text: How to participate ›
   style: alert
 permalink: /index.html
