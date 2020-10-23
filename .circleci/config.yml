@@ -36,7 +36,7 @@ build_jekyll: &build_jekyll
             chmod u+x circle_urls.sh
             bash circle_urls.sh
             bundle install
-            bundle exec jekyll build --config _config.yml,_config_dev.yml
+            bundle exec jekyll build
         else
             echo "Triggered by something else."
         fi
