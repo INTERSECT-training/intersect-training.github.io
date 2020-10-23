@@ -1,8 +1,77 @@
 version: 2.1
-orbs:
-  node: circleci/node@3.0.0
-workflows:
-  node-tests:
-    jobs:
-      - node/test
 
+workflows:
+  version: 2
+
+  # The build workflow will build a preview for the site, intended for PRs
+  build:
+    jobs:
+      - build-site:
+          filters:
+            branches:
+              ignore: 
+
+install: &install
+  name: install dependencies for build
+  command: |
+     $HOME/conda/bin/pip install -r ~/repo/.circleci/requirements.txt
+install_python_3: &install_python_3
+  name: install Python 3.5 dependencies
+  command: | 
+      ls $HOME
+      if [ ! -d "/home/circleci/conda" ]; then
+          wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+          /bin/bash Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/conda
+          export PATH=$HOME/conda/bin:$PATH
+       else
+           echo "Miniconda 3 is already installed, continuing to build."
+       fi
+build_jekyll: &build_jekyll
+    name: Jekyll Build
+    command: |
+        if [ -z "$CIRCLECI_TRIGGER" ]; then
+            echo "Building INTERSECT Site for Preview"
+            cp ~/repo/.circleci/circle_urls.sh ~/repo/circle_urls.sh
+            cd ~/repo
+            chmod u+x circle_urls.sh
+            bash circle_urls.sh
+            bundle install
+            bundle exec jekyll build
+        else
+            echo "Triggered by something else."
+        fi
+jobs:
+  build-site:
+    docker:
+      - image: circleci/ruby:2.5
+    working_directory: ~/repo
+    environment:
+      - JEKYLL_ENV: production
+      - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+      - BUNDLE_PATH: ~/repo/vendor/bundle
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - v1-dependencies
+          - rubygems-v1
+      - run: *install_python_3
+      - run: *install
+      - save_cache:
+          paths:
+            - /home/circleci/conda
+          key: v1-dependencies        
+      - run:
+          name: Bundle Install
+          command: |
+              cd ~/repo
+              bundle install
+              bundle check || bundle install
+      - save_cache:
+          key: rubygems-v1
+          paths:
+            - vendor/bundle
+      - run: *build_jekyll
+      - store_artifacts:
+          path: ~/repo/_site
+          destination: intersect-training.github.io
