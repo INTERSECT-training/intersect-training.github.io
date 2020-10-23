@@ -35,6 +35,7 @@ build_jekyll: &build_jekyll
             cd ~/repo
             chmod u+x circle_urls.sh
             bash circle_urls.sh
+            cat _config.yml
             bundle install
             bundle exec jekyll build
         else
