@@ -7,4 +7,4 @@ IMGURL=${URL}${BASEURL}/images/
 #IMGURL=${BASEURL}/images/
 sed -i "35 s,.*,baseurl: $BASEURL,g" "_config.yml"
 sed -i "48 s,.*,urlimg: $IMGURL,g" "_config.yml"
-sed -i "34 s,,*,url: $URL,g" "_config.yml"
+sed -i "34 s,.*,url: $URL,g" "_config.yml"
