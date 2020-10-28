@@ -9,8 +9,8 @@ header:
 
 ## Project Leaders
 
-* Ian Cosden, Princeton University
-* Jeffrey Carver, University of Alabama
+* [Ian Cosden](https://researchcomputing.princeton.edu/people/ian-cosden-0), Princeton University
+* [Jeffrey Carver](http://carver.cs.ua.edu/), University of Alabama
 
 
 ## Advisory Board
