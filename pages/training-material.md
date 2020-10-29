@@ -8,5 +8,10 @@ header:
 permalink: "/training-material/"
 ---
 
-Check back for information about how we will be curating and hosting training material.
-If you are currently involved in providing research software engineering training and would like to contribute please get in [contact with us]({{ site.url }}{{ site.baseurl }}/contact/).
+Currently we are collecting material (slides, videos, notebooks, etc) used for research software engineering training events.
+Contributions to the collection are welcomed. See the current list [here]({{ site.url }}{{ site.baseurl }}/training-material/)
+Once collected, we will curate, evaluate, and refine the list to use as a starting point for the [RSE workshops]({{ site.url }}{{ site.baseurl }}/workshops/).
+The resulting open-source material will be hosted online and shared with the community.
+This curriculum will serve as the basis for the [INTERSECT bootcamps]({{ site.url }}{{ site.baseurl }}/bootcamps/).
+
+If you are currently involved in providing research software engineering training, or you have material you've found useful and would like to contribute, please see the instructions at the bottom of the page [here]({{ site.url }}{{ site.baseurl }}/training-links#contribute).

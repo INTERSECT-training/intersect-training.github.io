@@ -1,0 +1,15 @@
+- name: Improving Reproducibility Through Better Software Practices
+  url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-9-Bernholdt-Reproducibility.pdf
+  author: David E. Bernholdt
+  location: ATPSEC
+  location_url: https://extremecomputingtraining.anl.gov/
+  date: 2020-08-06
+  description: "This presentation provides some background on the origins of concerns about reproducibility, some of the actions the larger community is taking to raise awareness and attention to it, and a more extensive discussion of how to make software-based research more reproducible at all stages of the R&D process."
+- name: Improving Reproducibility Through Better Software Practices
+  url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-08-Miller-ContinuousIntegration.pdf
+  author: Mark C. Miller
+  location: ATPSEC
+  location_url: https://extremecomputingtraining.anl.gov/
+  date: 2020-08-06
+  description: "A short and broad brush answer to the question “What is Continuous Integration?”.  Several of the key concepts related to Continuous Integration testing are introduced including the use of either local or cloud resources as well as a brief hands-on example with TravisCI and Codecov."
+  
