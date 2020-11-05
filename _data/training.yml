@@ -12,4 +12,36 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description: "A short and broad brush answer to the question “What is Continuous Integration?”.  Several of the key concepts related to Continuous Integration testing are introduced including the use of either local or cloud resources as well as a brief hands-on example with TravisCI and Codecov."
-  
+- name: High-Performance Python and Interoperability with Compiled Code
+  url: https://github.com/jpivarski-talks/2019-04-08-picscie-numpy
+  author: Jim Pivarski
+  location: Princeton University
+  date: 2019-04-08
+  location_url: https://researchcomputing.princeton.edu/events/high-performance-python-and-interoperability-compiled-code-48-410
+  description: This three day workshop examines the numerical processing ecosystem that has grown up around Python. The key library in this ecosystem is Numpy, which enables fast array programming and also provides a common data structure for sharing large, numerical datasets. We will walk through the process of restructuring "for loop" algorithms as "columnar" algorithms based on Numpy, as well as using Numba to speed up "for loop" algorithms by compiling the Python code. We'll do the same on a GPU using CuPy (a Numpy clone written for GPUs) and Numba. We'll also explore methods of mixing Python and C++, both for performance and for compatibility with existing libraries. Finally, I'll introduce Pandas as a convenient front-end to Numpy for data analysis.
+- name: Accelerating Python
+  url: https://github.com/jpivarski-talks/2019-07-23-codas-hep
+  author: Jim Pivarski
+  description: Numba is an alternative that compiles Python to run as fast as C, but only if the code consists purely of numbers and arrays that don't change type. Quite a few call out to C++, such as pybind11, Cython, and PyROOT, which is another way of escaping Python for tight loops. There are also many tools to parallelize Python, though there are some pitfalls to consider.
+  location: CoDaS-HEP 2019
+  location_url: http://codas-hep.org/
+- name: Introduction to Software Licensing
+  date: 2018-12-05
+  author: David E. Bernholdt, ORNL
+  url: Slides:https://dx.doi.org/10.6084/m9.figshare.7409573
+  description: "Software licensing and related matters of intellectual property can often seem confusing or hopelessly complicated, especially when many present their opinions as dogma. This presentation takes a different approach: getting you to think about software licensing from the standpoint of what you want others to be able to do (or not do) with your software. We will start by developing a common understanding of the terminology used around software licenses. Then we’ll consider various scenarios of what you might want to accomplish with a software license, and what to look for in the license. We’ll also discuss some pragmatic issues around actually applying a license to your software. A list of resources will be provided to help with further exploration of these topics."
+  location: IDEAS-Producitivity
+  location_url: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+- name: Modern CMake
+  url: https://hsf-training.github.io/hsf-training-cmake-webpage/
+  author: Henry Schreiner
+  description: The aim of this tutorial is to cover the basics of using CMake. This workshop covers the basics of making and building a project, and some details of design.
+  location: US-ATLAS Computing Bootcamp 2020
+  location_url: https://matthewfeickert.github.io/usatlas-computing-bootcamp-2020/
+- name: "Open Source Best Practices: From Continuous Integration to Static Linters"
+  date: 2018-10-17
+  author: Daniel Smith and Ben Pritchard, Molecular Sciences Software Institute (MolSSI)
+  url: http://ideas-productivity.org/wordpress/wp-content/uploads/2018/10/webinar023-osbp.pdf
+  description: This webinar will continue the discussion of open source software (OSS) opportunities within the scientific ecosystem to include the many cloud and local services available to OSS free of charge. The services to be discussed include continuous integration, code coverage, and static analysis. The presenters will demonstrate the usefulness of these tools and how a small time investment at the beginning is traded for long-term benefits. These services and ideas are agnostic to software language or HPC software application and should apply to any party interested in tools that help ease the burden of software maintenance.
+  location: IDEAS-Producitivity
+  location_url: https://ideas-productivity.org/events/hpc-best-practices-webinars/
