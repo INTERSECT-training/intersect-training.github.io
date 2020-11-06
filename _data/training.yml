@@ -45,3 +45,23 @@
   description: This webinar will continue the discussion of open source software (OSS) opportunities within the scientific ecosystem to include the many cloud and local services available to OSS free of charge. The services to be discussed include continuous integration, code coverage, and static analysis. The presenters will demonstrate the usefulness of these tools and how a small time investment at the beginning is traded for long-term benefits. These services and ideas are agnostic to software language or HPC software application and should apply to any party interested in tools that help ease the burden of software maintenance.
   location: IDEAS-Producitivity
   location_url: https://ideas-productivity.org/events/hpc-best-practices-webinars/
+- name: Research Reproducibility in Theory and Practice (Examples and Focus on Biological Sciences)
+  url: https://github.com/danielskatz/repro-fdtd1d
+  date: 2020-08-12
+  author: Daniel S. Katz
+  location: FSCI 2020
+  location_url: https://www.force11.org/fsci/2020/fsci-2020-course-abstracts#W20
+  description: This course will focus on issues of reproducibility in research from a broad perspective. It will include an introduction to the differing types of reproducibility, and a discussion of grant review guidelines and the philosophy that underpins them.
+- name: "Continuous Integration / Continuous Development (CI/CD): Introduction"
+  url: https://hsf-training.github.io/hsf-training-cicd/
+  author: Giordon Stark
+  location: HEP Software Foundation (HSF)
+  location_url: https://hepsoftwarefoundation.org/
+  description: "The aim of this module is to explore what it means to build a CI/CD workflow and expand on concepts unique to GitLab’s CI/CD which is essential to anyone working in ATLAS."
+- name: Introduction to Docker
+  url: https://hsf-training.github.io/hsf-training-docker/index.html
+  author: Matthew Feickert
+  location: HEP Software Foundation (HSF)
+  location_url: https://hepsoftwarefoundation.org/
+  description: An opinionated introduction to using Docker as a software development tool.
+  
