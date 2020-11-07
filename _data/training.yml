@@ -120,3 +120,17 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-19
   description:
+- name: "High Performance Python: CPUs"
+  url: https://github.com/henryiii/python-performance-minicourse
+  author: Henry Schreiner
+  location: Princeton University
+  location_url: https://researchcomputing.princeton.edu/events/high-performance-python-cpus-1
+  date: 2020-11-04 
+  description: This workshop will introduce participants to high performance Python using techniques such as Just In Time (JIT) compilation through Numba. We will look at several problems, and develop solutions using several different techniques, and compare the performance gained by doing so with the (potential) loss in expressivity and clarity.
+- name: "High Performance Python: CPUs"
+  url: https://github.com/henryiii/pygpu-minicourse
+  author: Henry Schreiner
+  location: Princeton University
+  location_url: https://researchcomputing.princeton.edu/events/high-performance-python-gpus
+  date: 2019-12-04
+  description: This workshop will introduce participants to high performance Python on GPUs using tools to provide “simplified” GPU programming, as well as offer a brief look into creating custom kernels by hand.
