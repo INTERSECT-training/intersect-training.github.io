@@ -4,12 +4,13 @@ workflows:
   version: 2
 
   # The build workflow will build a preview for the site, intended for PRs
+  # don't need to build gh-pages only other branches
   build:
     jobs:
       - build-site:
           filters:
             branches:
-              ignore: 
+              ignore: gh-pages
 
 install: &install
   name: install dependencies for build
@@ -17,7 +18,7 @@ install: &install
      $HOME/conda/bin/pip install -r ~/repo/.circleci/requirements.txt
 install_python_3: &install_python_3
   name: install Python 3.5 dependencies
-  command: | 
+  command: |
       ls $HOME
       if [ ! -d "/home/circleci/conda" ]; then
           wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
@@ -61,7 +62,7 @@ jobs:
       - save_cache:
           paths:
             - /home/circleci/conda
-          key: v1-dependencies        
+          key: v1-dependencies
       - run:
           name: Bundle Install
           command: |
