@@ -12,9 +12,29 @@ Then test locally (see below) to ensure your changes are behaving as anticipated
 If it's a very minor change (a typo, one line addition) a local preview may not be necessary, but for all other modifications, it's strongly encouraged to test locally before submitting a pull request.
 After previewing and confirming things look good create a pull request against `gh-pages`.
 
+### Adding a Training Links
+
+Links to exiting training material can be added with an entry to _data/training.yml.
+Each entry must have at a minimum
+```yml
+  name: The title of the talk/tutorial
+  url: url with direct link to the material
+```
+Where possible each entry should also include:
+```yml
+author: Name of the author(s) of the material
+location: Event where training was given
+location_url: url of event where training was given
+date: Date or training event {CI, Collaboration, Git, Licensing, Packaging, Performance, Reproducibility}
+description: A 2-3 sentence description of the material
+tags: A list of categorical tags for training topics. Comma separated list contained in {}
+      e.g {CI, Collaboration, Git, Licensing, Packaging, Performance, Reproducibility}
+      These are currently used to sort the entries on the /training-links page.
+      The tags are case sensitive. 
+```
 #### Adding authorship
 
-Posts should include the `author:` field using the name defined by an entry in the '_data/authors.yml' 
+Posts should include the `author:` field using the name defined by an entry in the '_data/authors.yml'
 
 #### Build and Preview locally
 
