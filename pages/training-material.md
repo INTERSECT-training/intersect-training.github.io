@@ -11,7 +11,7 @@ permalink: "/training-material/"
 Currently we are collecting material (slides, videos, notebooks, etc) used for research software engineering training events.
 Contributions to the collection are welcomed.
 
-See the current list [here]({{ site.url }}{{ site.baseurl }}/training-material/).
+See the current list [here]({{ site.url }}{{ site.baseurl }}/training-links).
 
 Once collected, we will curate, evaluate, and refine the list to use as a starting point for the [RSE workshops]({{ site.url }}{{ site.baseurl }}/workshops/).
 The resulting open-source material will be hosted online and shared with the community.
