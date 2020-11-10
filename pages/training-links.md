@@ -17,6 +17,12 @@ They are presented in no particular order.
 
 We eagerly welcome additions to this list.
 Links to slides, videos, notebooks etc that fall loosely under the _Research Software Engineering_ umbrella are all encouraged.
+
+We are especially seeking material that goes beyond basic research computing competency (e.g. what [The Carpentries](https://carpentries.org/) does so well) and is general enough to span multiple domains.
+Specific tools and technologies used only in one domain, or applicable to only one subset of computing (i.e. HPC) are typically too narrowly focused.
+When in doubt, submit it to be included or reach out and we'd be happy to discuss.
+
+
 See [below](#contribute) for instructions on how to add to this list.
 
 ## Links to RSE Training Material by Topic
