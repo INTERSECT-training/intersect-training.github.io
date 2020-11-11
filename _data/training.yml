@@ -162,3 +162,28 @@
   date: 2019-12-04
   description: This workshop will introduce participants to high performance Python on GPUs using tools to provide “simplified” GPU programming, as well as offer a brief look into creating custom kernels by hand.
   tags: {Python, Performance}
+- name: Agile Methodologies
+  url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-3-Willenbring-AgileProjMgmt.pdf
+  author: James M. Willenbring
+  location: ATPSEC
+  location_url: https://extremecomputingtraining.anl.gov/
+  date: 2020-08-06
+  description: "This talk provides a basic introduction to Agile methodologies as well as how to apply them to a small computational science team. There is a focus on starting with a small number of practices and building from there, rather than adopting a heavy-weight process."
+  tags: {Collaboration}
+- name: Scientific Software Design
+  url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-5-Dubey-SoftwareDesign.pdf
+  author: Anshu Dubey
+  location: ATPSEC
+  location_url: https://extremecomputingtraining.anl.gov/
+  date: 2020-08-06
+  description: 
+  tags: {Software}
+- name: Software Testing
+  url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-06-SoftwareTesting.pdf
+  author: Anshu Dubey
+  location: ATPSEC
+  location_url: https://extremecomputingtraining.anl.gov/
+  date: 2020-08-06
+  description: 
+  tags: {Testing}
+
