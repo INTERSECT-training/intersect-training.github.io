@@ -203,6 +203,8 @@ og_type:                            'website'
 #    twitter: cosden
 #    facebook: phlow.media
 
+# twitter card image
+twitter_image: /assets/img/android-chrome-512x512.png
 
 #        ____  _
 #       / __ \(_)________ ___  _______

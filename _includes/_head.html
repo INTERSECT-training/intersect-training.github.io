@@ -73,8 +73,15 @@
 	<meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:title" content="{{ title }}">
 	<meta name="twitter:description" content="{{ description }}">
-	{% if page.image.title %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
 	{% endif %}
+
+<!-- Twitter card even if site has no twitter handle (above) -->
+	{% if page.image.title %}
+	  <meta name="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">
+	{% elsif site.twitter_image %}
+	  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.twitter_image }}">
+	{% endif %}
+
 
 	<link type="text/plain" rel="author" href="{{ url}}/humans.txt">
 
