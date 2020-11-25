@@ -81,7 +81,7 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-17
   description:
-  tags: {Software}
+  tags: {Software, Development}
 - name: Think Like a Programmer
   url: https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit#slide=id.p
   author: Andrew Loftus
@@ -89,7 +89,7 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-17
   description:
-  tags: {Software}
+  tags: {Software, Development}
 - name: Basics of Packaging Python Programs
   url: https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/
   author: Kyle Niemeyer
@@ -176,14 +176,21 @@
   location: ATPSEC
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
-  description: 
-  tags: {Software}
+  description:
+  tags: {Software, Development}
 - name: Software Testing
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-06-SoftwareTesting.pdf
   author: Anshu Dubey
   location: ATPSEC
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
-  description: 
+  description:
   tags: {Testing}
-
+- name: Refactoring
+  url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-7-Dubey-Refactoring.pdf
+  author: Anshu Dubey
+  location: ATPSEC
+  location_url: https://extremecomputingtraining.anl.gov/
+  date: 2020-08-06
+  description:
+  tags: {Development}
