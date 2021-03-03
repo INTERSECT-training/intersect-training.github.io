@@ -197,6 +197,11 @@
 - name: Writing Clean Scientific Software
   url: https://zenodo.org/record/3922957#.YDZwfi2cbUJ
   author: Nick Murphy
-  description: This presentation discusses strategies for writing clean scientific software.  Choosing meaningful variable names improves readability.  Functions should be short, do exactly one thing, and have no side effects.  High-level big picture code should be separated from low-level implementation details, for example by writing code as a top-down narrative.  Because comments often become out-of-date as code evolves, it is preferable to refactor code to improve readability rather than describe how it works.  Well-written tests increase the flexibility of code.  This presentation encourages us to think of code as communication
+  description: This presentation discusses strategies for writing clean scientific software. This presentation encourages us to think of code as communication.
   tags: {Development}
+- name: Python Packages
+  url: https://py-pkgs.org/
+  author: Tomas Beuzen & Tiffany Timbers
+  description: Python Packages is an open source textbook that describes modern and efficient workflows for creating Python packages.
+  tags: {Packaging}
   
