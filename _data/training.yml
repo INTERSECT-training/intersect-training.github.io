@@ -194,3 +194,23 @@
   date: 2020-08-06
   description:
   tags: {Development}
+- name: Writing Clean Scientific Software
+  url: https://zenodo.org/record/3922957#.YDZwfi2cbUJ
+  author: Nick Murphy
+  description: This presentation discusses strategies for writing clean scientific software. This presentation encourages us to think of code as communication.
+  tags: {Development}
+- name: Python Packages
+  url: https://py-pkgs.org/
+  author: Tomas Beuzen & Tiffany Timbers
+  description: Python Packages is an open source textbook that describes modern and efficient workflows for creating Python packages.
+  tags: {Packaging, Book}
+- name: The Turing Way Collaboration guideline
+  url: https://the-turing-way.netlify.app/collaboration/collaboration.html
+  author: The Turing Way Community
+  description: This guide covers topics related to effective and inclusive collaboration.
+  tags: {Collaboration}
+- name: Research Software Engineering with Python
+  url: https://merely-useful.github.io/py-rse/index.html
+  author: Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, and Greg Wilson
+  description: A semester-long course in Research Software Engineering with Python targeting researchers who are already using Python for their data analysis, but who want to take their coding and software development to the next level.
+  tags: {Python, Book, General}
