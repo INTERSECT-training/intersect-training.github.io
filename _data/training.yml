@@ -209,3 +209,8 @@
   author: The Turing Way Community
   description: This guide covers topics related to effective and inclusive collaboration.
   tags: {Collaboration}
+- name: Research Software Engineering with Python
+  url: https://merely-useful.github.io/py-rse/index.html
+  author: Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, and Greg Wilson
+  description: A semester-long course in Research Software Engineering with Python targeting researchers who are already using Python for their data analysis, but who want to take their coding and software development to the next level.
+  tags: {Python, Book, General}
