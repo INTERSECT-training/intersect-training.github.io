@@ -203,5 +203,9 @@
   url: https://py-pkgs.org/
   author: Tomas Beuzen & Tiffany Timbers
   description: Python Packages is an open source textbook that describes modern and efficient workflows for creating Python packages.
-  tags: {Packaging}
-  
+  tags: {Packaging, Book}
+- name: The Turing Way Collaboration guideline
+  url: https://the-turing-way.netlify.app/collaboration/collaboration.html
+  author: The Turing Way Community
+  description: This guide covers topics related to effective and inclusive collaboration.
+  tags: {Collaboration}
