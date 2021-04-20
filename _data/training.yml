@@ -214,3 +214,9 @@
   author: Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, and Greg Wilson
   description: A semester-long course in Research Software Engineering with Python targeting researchers who are already using Python for their data analysis, but who want to take their coding and software development to the next level.
   tags: {Python, Book, General}
+- name: Best Practices in Python Package Development
+  url: https://education.molssi.org/python-package-best-practices/
+  author: The Molecular Sciences Software Institute
+  author_url: https://molssi.org/
+  description: This workshop is designed for researchers in the chemical sciences. In this course, students create a Python package using the MolSSI CookieCutter. The workshop covers an introduction to version control, hosting on GitHub, project collaboration, testing, and documentation strategies.
+  tags: {Python, Packaging, Development}
