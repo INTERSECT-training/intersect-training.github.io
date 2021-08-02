@@ -228,4 +228,23 @@
   date: 2021-07-19
   description: This tutorial exposes researchers to several best practices in scientific software engineering including Python packaging, automated testing, documentation management, logging, command-line interfaces, performance profiling and optimization. 
   tags: {Python, Packaging, Development, Testing}
+- name: "Powerful Python Packaging for Scientific Codes"
+  url: https://github.com/henryiii/skdevtalk/blob/main/PowerfulPackagingForPythonCodes.ipynb
+  author: Henry Schreiner
+  author_url: http://iscinumpy.gitlab.io
+  location: PyHEP 2021
+  location_url: https://indico.cern.ch/event/1019958/timetable/#3-powerful-python-packaging-fo
+  date: 2021-07-08
+  description: This talk covers the the best practices of making a highly compatible and installable Python package based on the [Scikit-HEP developer guidelines](https://scikit-hep.org/developer) and scikit-hep/cookie. There is a strong focus on compiled extensions. The latest developments in key libraries, like pybind11, cibuildwheel, and build are covered, along with potential upcoming advancements in Scikit-Build + CMake.
+  tags: {Python, Packaging}
+- name: "Level Up Your Python"
+  url: https://henryiii.github.io/level-up-your-python
+  author: Henry Schreiner
+  author_url: http://iscinumpy.gitlab.io
+  location: PyHEP 2021
+  location_url: https://indico.cern.ch/event/1019958/timetable/#53-level-up-your-python-part-i
+  date: 2021-07-05
+  description: Part 1 covers class design patterns, the python memory model, debugging, profiling, and more. Part 2 covers Python features and packaging. Part 3 covers common Python packages.
+  tags: {Python}
+
   
