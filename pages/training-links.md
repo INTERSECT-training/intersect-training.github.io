@@ -112,7 +112,7 @@ See [below](#contribute) for instructions on how to add to this list.
               {{ entry.date }}
             {% endif %}
             {% if entry.description %}
-              <br> {{ entry.description | markdownify }}
+              <br> {{ entry.description | markdownify | remove: '<p>' | remove: '</p>' }}
             {% endif %}</li>
      {% endif %}
 
