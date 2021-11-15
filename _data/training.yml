@@ -253,6 +253,6 @@
   location: Software Carpentry Foundation
   location_url: https://software-carpentry.org/blog/archive/
   description: Describe the basics of software project management with a particular focus on the sorts of projects commonly found in research settings.
-  tags: {CI,Software,Development}
+  tags: {Software,Development}
 
   
