@@ -17,9 +17,9 @@ header:
 
 
 * [David E. Bernholdt](https://csmd.ornl.gov/profile/david-bernholdt), Computer Science and Mathematics Division, Oak Ridge National Laboratory
-* [Alys Brett](https://www.linkedin.com/in/alysbrett/), UK Atomic Energy Authority 
+* [Alys Brett](https://www.linkedin.com/in/alysbrett/), UK Atomic Energy Authority
 * [Anshu Dubey](https://www.anl.gov/profile/anshu-dubey), Argonne National Laboratory / University of Chicago
 * [Peter Elmer](https://scholar.princeton.edu/elmer), Princeton University / Institute for Research and Innovation in Software for High-Energy Physics (IRIS-HEP)
-* [Sandra Gesing](http://sandra-gesing.com/), University of Notre Dame
+* [Sandra Gesing](http://sandra-gesing.com/), Discovery Partner Institute
 * [Mozhgan Kabiri chimeh](http://mkchimeh.com/), NVIDIA
 * [Daniel S. Katz](http://danielskatz.org/), University of Illinois Urbana-Champaign
