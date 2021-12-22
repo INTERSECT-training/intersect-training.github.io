@@ -6,7 +6,7 @@ subheadline: "Collecting RSE training towards the goal of a unified curriculum"
 teaser:
 header:
 permalink: "/training-links/"
-tags: {CI, Collaboration, Git, Licensing, Packaging, Performance, Reproducibility}
+tags: {CI, Collaboration, Git, Licensing, Packaging, Performance, Reproducibility, Software Engineering, Python in Research, Documentation, Design, Refactoring, Testing}
 ---
 
 Below is an ongoing collection of RSE training material, workshops, and resources.
