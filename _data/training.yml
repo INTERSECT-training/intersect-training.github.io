@@ -250,6 +250,6 @@
   url: https://swcarpentry.github.io/managing-research-software-projects/
   author: Daniel Standage, Greg Wilson
   description: Describe the basics of software project management with a particular focus on the sorts of projects commonly found in research settings.
-  tags: {CI,Software,Development}
+  tags: {Software,Development}
 
   
