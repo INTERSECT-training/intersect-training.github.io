@@ -13,7 +13,7 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description: "A short and broad brush answer to the question “What is Continuous Integration?”.  Several of the key concepts related to Continuous Integration testing are introduced including the use of either local or cloud resources as well as a brief hands-on example with TravisCI and Codecov."
-  tags: {CI, Testing}
+  tags: {CI}
 - name: High-Performance Python and Interoperability with Compiled Code
   url: https://github.com/jpivarski-talks/2019-04-08-picscie-numpy
   author: Jim Pivarski
