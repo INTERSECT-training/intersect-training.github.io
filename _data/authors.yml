@@ -11,4 +11,7 @@ cosden: # replace this with your info
   uri: https://cosden.github.io/
   email:
   twitter: "@iancosden"
+carver:
+  name: "Jeff Carver"
+  
 # you can add more authors here
