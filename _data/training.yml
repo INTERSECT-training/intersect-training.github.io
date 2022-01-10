@@ -13,7 +13,7 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description: "A short and broad brush answer to the question “What is Continuous Integration?”.  Several of the key concepts related to Continuous Integration testing are introduced including the use of either local or cloud resources as well as a brief hands-on example with TravisCI and Codecov."
-  tags: {CI, Testing}
+  tags: {CI}
 - name: High-Performance Python and Interoperability with Compiled Code
   url: https://github.com/jpivarski-talks/2019-04-08-picscie-numpy
   author: Jim Pivarski
@@ -21,14 +21,14 @@
   date: 2019-04-08
   location_url: https://researchcomputing.princeton.edu/events/high-performance-python-and-interoperability-compiled-code-48-410
   description: This three day workshop examines the numerical processing ecosystem that has grown up around Python. The key library in this ecosystem is Numpy, which enables fast array programming and also provides a common data structure for sharing large, numerical datasets. We will walk through the process of restructuring "for loop" algorithms as "columnar" algorithms based on Numpy, as well as using Numba to speed up "for loop" algorithms by compiling the Python code. We'll do the same on a GPU using CuPy (a Numpy clone written for GPUs) and Numba. We'll also explore methods of mixing Python and C++, both for performance and for compatibility with existing libraries. Finally, I'll introduce Pandas as a convenient front-end to Numpy for data analysis.
-  tags: {Python, Performance}
+  tags: {Python in Research, Performance}
 - name: Accelerating Python
   url: https://github.com/jpivarski-talks/2019-07-23-codas-hep
   author: Jim Pivarski
   description: Numba is an alternative that compiles Python to run as fast as C, but only if the code consists purely of numbers and arrays that don't change type. Quite a few call out to C++, such as pybind11, Cython, and PyROOT, which is another way of escaping Python for tight loops. There are also many tools to parallelize Python, though there are some pitfalls to consider.
   location: CoDaS-HEP 2019
   location_url: http://codas-hep.org/
-  tags: {Python, Performance}
+  tags: {Python in Research, Performance}
 - name: Introduction to Software Licensing
   date: 2018-12-05
   author: David E. Bernholdt, ORNL
@@ -81,7 +81,7 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-17
   description:
-  tags: {Software, Development}
+  tags: {Software Engineering, Design}
 - name: Think Like a Programmer
   url: https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit#slide=id.p
   author: Andrew Loftus
@@ -89,7 +89,7 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-17
   description:
-  tags: {Software, Development}
+  tags: {Software Engineering}
 - name: Basics of Packaging Python Programs
   url: https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/
   author: Kyle Niemeyer
@@ -97,7 +97,7 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-17
   description:
-  tags: {Packaging}
+  tags: {Packaging, Python in Research}
 - name: Collaboration with Git & GitHub
   url: https://inundata.org/talks/git-collaboration/#/
   author: Karthik Ram
@@ -129,7 +129,7 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-19
   description: 
-  tags: {Collaboration}
+  tags: {Collaboration, Software Engineering}
 - name: Open Science & Software Citation
   url: https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/
   author: Kyle Niemeyer
@@ -145,7 +145,7 @@
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-19
   description:
-  tags: {Documentation}
+  tags: {Documentation, Software Engineering}
 - name: "High Performance Python: CPUs"
   url: https://github.com/henryiii/python-performance-minicourse
   author: Henry Schreiner
@@ -153,7 +153,7 @@
   location_url: https://researchcomputing.princeton.edu/events/high-performance-python-cpus-1
   date: 2020-11-04
   description: This workshop will introduce participants to high performance Python using techniques such as Just In Time (JIT) compilation through Numba. We will look at several problems, and develop solutions using several different techniques, and compare the performance gained by doing so with the (potential) loss in expressivity and clarity.
-  tags: {Python, Performance}
+  tags: {Python in Research, Performance}
 - name: "High Performance Python: GPUs"
   url: https://github.com/henryiii/pygpu-minicourse
   author: Henry Schreiner
@@ -161,7 +161,7 @@
   location_url: https://researchcomputing.princeton.edu/events/high-performance-python-gpus
   date: 2019-12-04
   description: This workshop will introduce participants to high performance Python on GPUs using tools to provide “simplified” GPU programming, as well as offer a brief look into creating custom kernels by hand.
-  tags: {Python, Performance}
+  tags: {Python in Research, Performance}
 - name: Agile Methodologies
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-3-Willenbring-AgileProjMgmt.pdf
   author: James M. Willenbring
@@ -169,7 +169,7 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description: "This talk provides a basic introduction to Agile methodologies as well as how to apply them to a small computational science team. There is a focus on starting with a small number of practices and building from there, rather than adopting a heavy-weight process."
-  tags: {Collaboration}
+  tags: {Collaboration, Software Engineering}
 - name: Scientific Software Design
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-5-Dubey-SoftwareDesign.pdf
   author: Anshu Dubey
@@ -177,7 +177,7 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description:
-  tags: {Software, Development}
+  tags: {Software Engineering, Development}
 - name: Software Testing
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-06-SoftwareTesting.pdf
   author: Anshu Dubey
@@ -185,7 +185,7 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description:
-  tags: {Testing}
+  tags: {Testing, Software Engineering}
 - name: Refactoring
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-7-Dubey-Refactoring.pdf
   author: Anshu Dubey
@@ -193,17 +193,17 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description:
-  tags: {Development}
+  tags: {Refactoring}
 - name: Writing Clean Scientific Software
   url: https://zenodo.org/record/3922957#.YDZwfi2cbUJ
   author: Nick Murphy
   description: This presentation discusses strategies for writing clean scientific software. This presentation encourages us to think of code as communication.
-  tags: {Development}
+  tags: {Software Engineering}
 - name: Python Packages
   url: https://py-pkgs.org/
   author: Tomas Beuzen & Tiffany Timbers
   description: Python Packages is an open source textbook that describes modern and efficient workflows for creating Python packages.
-  tags: {Packaging, Book}
+  tags: {Packaging, Python in Research}
 - name: The Turing Way Collaboration guideline
   url: https://the-turing-way.netlify.app/collaboration/collaboration.html
   author: The Turing Way Community
@@ -213,13 +213,13 @@
   url: https://merely-useful.github.io/py-rse/index.html
   author: Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, and Greg Wilson
   description: A semester-long course in Research Software Engineering with Python targeting researchers who are already using Python for their data analysis, but who want to take their coding and software development to the next level.
-  tags: {Python, Book, General}
+  tags: {Python in Research}
 - name: Best Practices in Python Package Development
   url: https://education.molssi.org/python-package-best-practices/
   author: The Molecular Sciences Software Institute
   author_url: https://molssi.org/
   description: This workshop is designed for researchers in the chemical sciences. In this course, students create a Python package using the MolSSI CookieCutter. The workshop covers an introduction to version control, hosting on GitHub, project collaboration, testing, and documentation strategies.
-  tags: {Python, Packaging, Development}
+  tags: {Python in Research, Packaging, Development}
 - name: "Python 201: Building Better Scientific Software in Python"
   url: https://python-tutorial.dev/201/index.html
   author: Geoffrey Lentner
@@ -227,7 +227,7 @@
   location_url: https://pearc.acm.org/pearc21/
   date: 2021-07-19
   description: This tutorial exposes researchers to several best practices in scientific software engineering including Python packaging, automated testing, documentation management, logging, command-line interfaces, performance profiling and optimization. 
-  tags: {Python, Packaging, Development, Testing}
+  tags: {Python in Research, Packaging, Development, Testing}
 - name: "Powerful Python Packaging for Scientific Codes"
   url: https://github.com/henryiii/skdevtalk/blob/main/PowerfulPackagingForPythonCodes.ipynb
   author: Henry Schreiner
@@ -236,7 +236,7 @@
   location_url: https://indico.cern.ch/event/1019958/timetable/#3-powerful-python-packaging-fo
   date: 2021-07-08
   description: This talk covers the the best practices of making a highly compatible and installable Python package based on the [Scikit-HEP developer guidelines](https://scikit-hep.org/developer) and scikit-hep/cookie. There is a strong focus on compiled extensions. The latest developments in key libraries, like pybind11, cibuildwheel, and build are covered, along with potential upcoming advancements in Scikit-Build + CMake.
-  tags: {Python, Packaging}
+  tags: {Python in Research, Packaging}
 - name: "Level Up Your Python"
   url: https://henryiii.github.io/level-up-your-python
   author: Henry Schreiner
@@ -245,11 +245,11 @@
   location_url: https://indico.cern.ch/event/1019958/timetable/#53-level-up-your-python-part-i
   date: 2021-07-05
   description: Part 1 covers class design patterns, the python memory model, debugging, profiling, and more. Part 2 covers Python features and packaging. Part 3 covers common Python packages.
-  tags: {Python}
+  tags: {Python in Research}
 - name: "Managing Research Software Projects"
   url: https://swcarpentry.github.io/managing-research-software-projects/
   author: Daniel Standage, Greg Wilson
   description: Describe the basics of software project management with a particular focus on the sorts of projects commonly found in research settings.
-  tags: {Software,Development}
+  tags: {Software Engineering,Development}
 
   
