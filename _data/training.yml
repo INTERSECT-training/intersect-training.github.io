@@ -13,7 +13,7 @@
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
   description: "A short and broad brush answer to the question “What is Continuous Integration?”.  Several of the key concepts related to Continuous Integration testing are introduced including the use of either local or cloud resources as well as a brief hands-on example with TravisCI and Codecov."
-  tags: {CI, Testing}
+  tags: {CI}
 - name: High-Performance Python and Interoperability with Compiled Code
   url: https://github.com/jpivarski-talks/2019-04-08-picscie-numpy
   author: Jim Pivarski
@@ -32,7 +32,7 @@
 - name: Introduction to Software Licensing
   date: 2018-12-05
   author: David E. Bernholdt, ORNL
-  url: Slides:https://dx.doi.org/10.6084/m9.figshare.7409573
+  url: https://dx.doi.org/10.6084/m9.figshare.7409573
   description: "Software licensing and related matters of intellectual property can often seem confusing or hopelessly complicated, especially when many present their opinions as dogma. This presentation takes a different approach: getting you to think about software licensing from the standpoint of what you want others to be able to do (or not do) with your software. We will start by developing a common understanding of the terminology used around software licenses. Then we’ll consider various scenarios of what you might want to accomplish with a software license, and what to look for in the license. We’ll also discuss some pragmatic issues around actually applying a license to your software. A list of resources will be provided to help with further exploration of these topics."
   location: IDEAS-Producitivity
   location_url: https://ideas-productivity.org/events/hpc-best-practices-webinars/
@@ -203,7 +203,7 @@
   url: https://py-pkgs.org/
   author: Tomas Beuzen & Tiffany Timbers
   description: Python Packages is an open source textbook that describes modern and efficient workflows for creating Python packages.
-  tags: {Packaging, Pyhton in Research}
+  tags: {Packaging, Python in Research}
 - name: The Turing Way Collaboration guideline
   url: https://the-turing-way.netlify.app/collaboration/collaboration.html
   author: The Turing Way Community
@@ -251,5 +251,8 @@
   author: Daniel Standage, Greg Wilson
   description: Describe the basics of software project management with a particular focus on the sorts of projects commonly found in research settings.
   tags: {Software Engineering,Development}
-
-  
+- name: "Intermediate Research Software Development in Python"
+  url: https://carpentries-incubator.github.io/python-intermediate-development/
+  author: Steve Crouch, James Graham, Aleksandra Nenadic 
+  description: This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as programming language.
+  tags: {Collaboration, Testing, Python in Research, Design, Development}
