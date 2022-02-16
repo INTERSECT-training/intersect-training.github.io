@@ -251,5 +251,9 @@
   author: Daniel Standage, Greg Wilson
   description: Describe the basics of software project management with a particular focus on the sorts of projects commonly found in research settings.
   tags: {Software Engineering,Development}
-
+- name: "Intermediate Research Software Development in Python.  [Hands on Excercise][Lecture materials]"									
+  url: https://carpentries-incubator.github.io/python-intermediate-development/									
+  author: Steve Crouch, James Graham, Sam Mangham									
+  description: This course aims to teach a core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language.
+  tags: {Git, Collaboration, Testing, Python in Research, Design }									
   
