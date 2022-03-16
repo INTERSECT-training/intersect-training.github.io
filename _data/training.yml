@@ -4,7 +4,7 @@
   location: ATPSEC
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
-  description: "This presentation provides some background on the origins of concerns about reproducibility, some of the actions the larger community is taking to raise awareness and attention to it, and a more extensive discussion of how to make software-based research more reproducible at all stages of the R&D process."[Slides]
+  description: This presentation provides some background on the origins of concerns about reproducibility, some of the actions the larger community is taking to raise awareness and attention to it, and a more extensive discussion of how to make software-based research more reproducible at all stages of the R&D process.[Slides]
   tags: {Reproducibility}
 - name: Continuous Integration
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-08-Miller-ContinuousIntegration.pdf
@@ -12,7 +12,7 @@
   location: ATPSEC
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
-  description: "A short and broad brush answer to the question “What is Continuous Integration?”.  Several of the key concepts related to Continuous Integration testing are introduced including the use of either local or cloud resources as well as a brief hands-on example with TravisCI and Codecov."[Slides]
+  description: A short and broad brush answer to the question “What is Continuous Integration?”.  Several of the key concepts related to Continuous Integration testing are introduced including the use of either local or cloud resources as well as a brief hands-on example with TravisCI and Codecov.[Slides]
   tags: {CI}
 - name: High-Performance Python and Interoperability with Compiled Code
   url: https://github.com/jpivarski-talks/2019-04-08-picscie-numpy
@@ -33,7 +33,7 @@
   date: 2018-12-05
   author: David E. Bernholdt, ORNL
   url: https://dx.doi.org/10.6084/m9.figshare.7409573
-  description: "Software licensing and related matters of intellectual property can often seem confusing or hopelessly complicated, especially when many present their opinions as dogma. This presentation takes a different approach: getting you to think about software licensing from the standpoint of what you want others to be able to do (or not do) with your software. We will start by developing a common understanding of the terminology used around software licenses. Then we’ll consider various scenarios of what you might want to accomplish with a software license, and what to look for in the license. We’ll also discuss some pragmatic issues around actually applying a license to your software. A list of resources will be provided to help with further exploration of these topics."[Slides]
+  description: Software licensing and related matters of intellectual property can often seem confusing or hopelessly complicated, especially when many present their opinions as dogma. This presentation takes a different approach: getting you to think about software licensing from the standpoint of what you want others to be able to do (or not do) with your software. We will start by developing a common understanding of the terminology used around software licenses. Then we’ll consider various scenarios of what you might want to accomplish with a software license, and what to look for in the license. We’ll also discuss some pragmatic issues around actually applying a license to your software. A list of resources will be provided to help with further exploration of these topics.[Slides]
   location: IDEAS-Producitivity
   location_url: https://ideas-productivity.org/events/hpc-best-practices-webinars/
   tags: {Software, Licensing}
@@ -65,7 +65,7 @@
   author: Giordon Stark
   location: HEP Software Foundation (HSF)
   location_url: https://hepsoftwarefoundation.org/
-  description: "The aim of this module is to explore what it means to build a CI/CD workflow and expand on concepts unique to GitLab’s CI/CD which is essential to anyone working in ATLAS."[Hands-on][Video]
+  description: The aim of this module is to explore what it means to build a CI/CD workflow and expand on concepts unique to GitLab’s CI/CD which is essential to anyone working in ATLAS.[Hands-on][Video]
   tags: {CI}
 - name: Introduction to Docker
   url: https://hsf-training.github.io/hsf-training-docker/index.html
@@ -168,7 +168,7 @@
   location: ATPSEC
   location_url: https://extremecomputingtraining.anl.gov/
   date: 2020-08-06
-  description: "This talk provides a basic introduction to Agile methodologies as well as how to apply them to a small computational science team. There is a focus on starting with a small number of practices and building from there, rather than adopting a heavy-weight process."[Slides]
+  description: This talk provides a basic introduction to Agile methodologies as well as how to apply them to a small computational science team. There is a focus on starting with a small number of practices and building from there, rather than adopting a heavy-weight process.[Slides]
   tags: {Collaboration, Software Engineering}
 - name: Scientific Software Design
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-5-Dubey-SoftwareDesign.pdf
