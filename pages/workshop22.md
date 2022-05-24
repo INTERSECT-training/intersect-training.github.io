@@ -20,16 +20,12 @@ We have funding available to cover the expenses for some participants. We are as
 
 ## Preliminary Structure
 
-This first workshop will lay the foundation for the INTERSECT-sponsored RSE [bootcamps]({{ site.url }}{{ site.baseurl }}/bootcamps/).
-Through discussion and collaboration we expect to modify and adjust the following outline.
+This first workshop will lay the foundation for the INTERSECT-sponsored RSE [bootcamps]({{ site.url }}{{ site.baseurl }}/bootcamps/) that aim to deliver RSE-led training to intermediate and advanced research software developers.
 
-The training material will have three overaching goals to cut across each session:
-1. Exposure to best practices & modern tools
-1. Hands on practice and demonstration
-1. Demystifying Buzz words
-
-The following is presented as a proposed outline for the bootcamp, and therefore topics for refinement at the workshop.
-During the workshop, participates will refine this list, perhaps significantly, and then collaboratively modify existing material or develop new material.
+As a starting point for the workshop discussions, we have identified the following high-level topics.
+These topics constitute a proposed outline for the bootcamp.
+Beneath each topic is a list of the potential content for each topic to serve as a starting point for the workshop.
+Through discussion and collaboration during the workshop, participates will refine this list, perhaps significantly, and then collaboratively modify existing material or develop new material.
 
 1. Intro
  * Welcome and Introductions
@@ -65,6 +61,11 @@ During the workshop, participates will refine this list, perhaps significantly, 
 9. DevOps
  * Containerization
  * Continuous Deployment
+
+Across all of the training modules, we have three overaching goals:
+1. Provide attendees with exposure to best practices & modern tools
+1. Provide attendees with hands-on practice and demonstration
+1. Help demystify buzz words
 
  <div class="row t60 b60">
      <div class="small-12 text-left columns">
