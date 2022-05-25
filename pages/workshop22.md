@@ -56,7 +56,7 @@ Through discussion and collaboration during the workshop, participates will refi
  * Overview of architecture and hardware (HPC)
  * Speeding up scientific Python
  * Profiling
-8. Machine Learing Basics
+8. Machine Learning Basics
  * What every RSE should know about ML
 9. DevOps
  * Containerization
