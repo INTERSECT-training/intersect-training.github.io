@@ -16,4 +16,7 @@ INTERSECT will sponsor and organize workshops comprised of professional RSEs.
 The purpose of these workshop is two fold. The first and primary objective is to collaboratively generate the training topics and content for the RSE Bootcamps (described next).
 The second objective is to foster collaboration and nurture RSE peer relationships
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/participate/">Find out how to participate ›</a>
+See the [Workshop22 page]({{ site.url }}{{ site.baseurl }}/workshop22/) for details and participation options for the [2022 INTERSECT Workshop]({{ site.url }}{{ site.baseurl }}/workshop22/).
+
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/participate/">More INTERSECT Participation Options ›</a>

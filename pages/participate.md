@@ -9,6 +9,11 @@ header:
 permalink: "/participate/"
 ---
 
+## Workshop 2022
+See the [Workshop22 page]({{ site.url }}{{ site.baseurl }}/workshop22/) for details and participation options for the [2022 INTERSECT Workshop]({{ site.url }}{{ site.baseurl }}/workshop22/).
+Express interest using the [Workshop 2022 Participation Form](https://docs.google.com/forms/d/e/1FAIpQLSeZi1aRn18_ocQ6vGpAj7WfJytlOp8JB0J81TgrWPdf5Hedzw/viewform?usp=sf_link).
+
+
 ## Ways to participate
 1. Workshops - If you consider yourself an RSE and
   * you have experience giving research software development training
