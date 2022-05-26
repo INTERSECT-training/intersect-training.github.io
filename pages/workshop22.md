@@ -17,11 +17,12 @@ This workshop has two main goals:
 
 We have funding available to cover the expenses for some participants. We are asking for individuals to use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeZi1aRn18_ocQ6vGpAj7WfJytlOp8JB0J81TgrWPdf5Hedzw/viewform?usp=sf_link) to express and interest and ability to attend the entirety of the workshop.
 
+## Workshop Plan
+This first workshop will lay the foundation for the INTERSECT-sponsored RSE [bootcamps]({{ site.url }}{{ site.baseurl }}/bootcamps/) that aim to deliver RSE-led training to intermediate and advanced research software developers.
+As one of the primary goals of the workshop is to produce training materials, the bulk of the workshop time will be spent in small working groups focused on producing content.
+The following section provides an initial list of the topics for which workshop participants will develop and/or curate content.
 
 ## Preliminary Structure
-
-This first workshop will lay the foundation for the INTERSECT-sponsored RSE [bootcamps]({{ site.url }}{{ site.baseurl }}/bootcamps/) that aim to deliver RSE-led training to intermediate and advanced research software developers.
-
 As a starting point for the workshop discussions, we have identified the following high-level topics.
 These topics constitute a proposed outline for the bootcamp.
 Beneath each topic is a list of the potential content for each topic to serve as a starting point for the workshop.
