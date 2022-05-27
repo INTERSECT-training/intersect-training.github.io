@@ -68,6 +68,22 @@ Across all of the training modules, we have three overaching goals:
 1. Provide attendees with hands-on practice and demonstration
 1. Help demystify buzz words
 
+## FAQs
+#### How much is supposed to be done at the end of the workshop?
+_We aim to have each module at least 90% complete by the end of the workshop._
+
+#### What topics will we work on?  
+_See the [Preliminary Structure](#preliminary-structure) above for the tentative list of topics covered in the workshop._
+
+#### What’s the format of the material?
+_We will determine this during the workshop. However we anticipate the materials will reside in some sort of Git repository._
+
+#### What happens after?
+_After the workshop, we will finish curating the materials to prepare for the first [INTERSECT Bootcamp]({{ site.url }}{{ site.baseurl }}/bootcamps/)._
+
+#### Can I teach one of these sections elsewhere?
+_Yes. We intend to create reusable materials that can be taught in other venues._
+
  <div class="row t60 b60">
      <div class="small-12 text-left columns">
          <a class="button large radius alert" href="https://docs.google.com/forms/d/e/1FAIpQLSeZi1aRn18_ocQ6vGpAj7WfJytlOp8JB0J81TgrWPdf5Hedzw/viewform?usp=sf_link" target="_blank">Interest form for Workshop22 ›</a>
