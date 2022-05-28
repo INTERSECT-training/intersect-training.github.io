@@ -83,7 +83,8 @@ _After the workshop, we will finish curating the materials to prepare for the fi
 
 #### Can I teach one of these sections elsewhere?
 _Yes. We intend to create reusable materials that can be taught in other venues._
-
+#### Is there a remote participation option?
+_Not at the workshop. However, once the workshop ends we encourage community participation to extend and enhance the training material.
  <div class="row t60 b60">
      <div class="small-12 text-left columns">
          <a class="button large radius alert" href="https://docs.google.com/forms/d/e/1FAIpQLSeZi1aRn18_ocQ6vGpAj7WfJytlOp8JB0J81TgrWPdf5Hedzw/viewform?usp=sf_link" target="_blank">Interest form for Workshop22 ›</a>
