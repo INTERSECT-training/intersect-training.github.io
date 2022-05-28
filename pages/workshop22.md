@@ -70,7 +70,8 @@ Across all of the training modules, we have three overaching goals:
 
 ## FAQs
 #### How much is supposed to be done at the end of the workshop?
-_We aim to have each module at least 90% complete by the end of the workshop._
+_We aim to have each module 90% complete by the end of the workshop.
+Additional refinement and improvement can happen asynchronously afterward the workshop_
 
 #### What topics will we work on?  
 _See the [Preliminary Structure](#preliminary-structure) above for the tentative list of topics covered in the workshop._
