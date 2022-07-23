@@ -9,6 +9,7 @@ permalink: "/workshop22/"
 ---
 
 ### [Workshop Agenda]({{site.url }}{{site.baseurl }}/agenda/)
+<br>
 
 We are excited to announce our first INTERSECT RSE Workshop, August 9-10, 2022 at Princeton University!
 Thanks to a grant from the National Science Foundation, we are organizing a 1.5 day workshop to generate content for future INTERSECT-sponsored RSE [bootcamps]({{ site.url }}{{ site.baseurl }}/bootcamps/).
