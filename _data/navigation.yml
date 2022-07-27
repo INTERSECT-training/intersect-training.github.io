@@ -33,6 +33,10 @@
   url: "/participate/"
   side: left
 
+- title: Code of Conduct
+  url: "/code-of-conduct/"
+  side: left
+
 #- title: "Search"
 #  url: "/search/"
 #  side: right
