@@ -22,7 +22,7 @@ identities that are impacted by systemic discrimination and marginalization. We 
 
 This code of conduct should be honored by everyone who participates in INTERSECT activities. This code of conduct applies to all spaces managed by the INTERSECT project, including all public and private mailing lists, issue
 trackers, wikis, forums, code repositories, and any other communication channel used by our community. The code of conduct equally
-applies at INTERSECT events and governs standards of behavior for attendees, speakers, volunteers, booth staff, and event
+applies at INTERSECT events and governs standards of behavior for attendees, participants, speakers, instructors, volunteers, and event
 sponsors.
 
 This code is not exhaustive or complete. It serves to distill our understanding of a collaborative, inclusive community culture. Please
