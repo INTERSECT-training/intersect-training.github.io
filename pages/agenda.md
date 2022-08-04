@@ -18,8 +18,8 @@ permalink: /agenda/
 | 10:15 - 10:45 | Break |  |
 | 10:45 - 12:00 | Breakout Working Groups | PCTS, 407 Jadwin Hall |
 | 12:00  - 1:00 | Lunch Break | PCTS, 407 Jadwin Hall |
-| 1:00 - 1:15 | Group Checkin/Standup | PCTS, 407 Jadwin Hall |
-| 1:15 - 2:45 | Breakout Working Groups | PCTS, 407 Jadwin Hall |
+| 1:00 - 1:30 | Group Checkin/Standup | PCTS, 407 Jadwin Hall |
+| 1:30 - 2:45 | Breakout Working Groups | PCTS, 407 Jadwin Hall |
 | 2:45 - 3:15 |  Break |  |
 | 3:15 - 4:15 |  Breakout Working Groups | PCTS, 407 Jadwin Hall |
 | 4:15 - 5:00 |  5 Minutes (Max) Outline/Summary Update Per Group | PCTS, 407 Jadwin Hall |
