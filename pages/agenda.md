@@ -33,8 +33,8 @@ permalink: /agenda/
 | ------ | ----- | ----- |
 | 8:15 - 9:00 | Breakfast | PCTS, 407 Jadwin Hall |
 | 9:00 - 9:15 | Temperature Check | PCTS, 407 Jadwin Hall |
-| 9:15 - 10:15 | Breakout Groups | PCTS, 407 Jadwin Hall |
-| 10:15 - 10:45 | Break |  |
-| 10:45 - 11:30 |  Group Reports On Accomplishments and To Dos | PCTS, 407 Jadwin Hall |
-| 11:30 - 12:00 |  Discussions of Next Steps | PCTS, 407 Jadwin Hall |
+| 9:15 - 10:30 | Breakout Groups | PCTS, 407 Jadwin Hall |
+| 10:30 - 10:45 | Break |  |
+| 10:45 - 11:15 |  Breakout Groups | PCTS, 407 Jadwin Hall |
+| 11:15 - 12:00 |  Status Reports and Discussions of Next Steps | PCTS, 407 Jadwin Hall |
 | 12:00         | Boxed Lunch & Workshop End | PCTS, 407 Jadwin Hall |
