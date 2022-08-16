@@ -144,7 +144,7 @@
   location: URSSI Winter School
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-19
-  description: This talk provides on the basics of software documnetation. **[Slides] [Hands-on]**
+  description: This talk provides on the basics of software documentation. **[Slides] [Hands-on]**
   tags: {Documentation, Software Engineering}
 - name: "High Performance Python: CPUs"
   url: https://github.com/henryiii/python-performance-minicourse
