@@ -1,12 +1,10 @@
 REPO_ID=$(curl https://api.github.com/repos/${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME} | jq --raw-output '.id')
 echo "Repo ID is ${REPO_ID}"
-URL=https://${CIRCLE_BUILD_NUM}-${REPO_ID}-gh.circle-artifacts.com/0
+
 URL=https://output.circle-artifacts.com/output/job/${CIRCLE_WORKFLOW_JOB_ID}/artifacts/${CIRCLE_NODE_INDEX}
 BASEURL=/intersect-training.github.io
 IMGURL=${URL}${BASEURL}/images/
 
-#BASEURL=https://${CIRCLE_BUILD_NUM}-${REPO_ID}-gh.circle-artifacts.com/0/intersect-training.github.io
-#IMGURL=${BASEURL}/images/
 echo "URL is ${URL}"
 
 sed -i "35 s,.*,baseurl: $BASEURL,g" "_config.yml"
