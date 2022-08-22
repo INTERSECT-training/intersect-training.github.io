@@ -7,9 +7,9 @@ tags:
 header: no
 author: carver
 image:
-    title: Workshop22GroupPhoto.jpg
-    thumb: Workshop22GroupPhoto.jpg
-    homepage: Workshop22GroupPhoto.jpg
+    title: 2022-08-GroupPhoto.jpg
+    thumb: 2022-08-GroupPhoto.jpg
+    homepage: 2022-08-GroupPhoto.jpg
 ---
 
 As part of the NSF-funded INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT) project, we held the first RSE Workshop to begin developing content for the INTERSECT-sponsored [RSE Bootcamps](https://intersect-training.org/bootcamps/). This first workshop, held at Princeton University, included 16 participants who were active RSEs, RSE trainers, managers of RSEs, and academics working with and studying research software. The goal of this 1.5 day workshop was to begin generating the content for training modules on key topics for intermediate to advanced research software developers.
