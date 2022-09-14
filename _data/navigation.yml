@@ -37,9 +37,9 @@
   url: "/code-of-conduct/"
   side: left
 
-#- title: "Search"
-#  url: "/search/"
-#  side: right
+- title: Curriculum
+  url: "/curriculum/"
+  side: left
 
 - title: "Contact"
   url: "/contact/"
