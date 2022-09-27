@@ -187,3 +187,31 @@
   repository: https://github.com/hsf-training/hsf-training-singularity-webpage
 
 
+
+
+
+
+- description: 'Module introducing Python packaging and distribution.'
+  name: Packaging
+  repository: https://github.com/INTERSECT-training/packaging
+  status: stable
+  videos: ''
+  webpage: https://intersect-training.org/packaging/
+  id: packaging
+
+- description: 'Module introducing basics of systematic, automated testing.'
+  name: Testing
+  repository: https://github.com/INTERSECT-training/testing
+  status: stable
+  videos: ''
+  webpage: https://intersect-training.org/testing
+  id: testing
+
+- description: 'Module introducing basics of software design.'
+  name: Software Design
+  repository: https://github.com/INTERSECT-training/software-design
+  status: stable
+  videos: ''
+  webpage: https://intersect-training.org/software-design/
+  id: softwaredesign
+
