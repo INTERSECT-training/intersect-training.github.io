@@ -33,7 +33,7 @@
   author: CodeRefinery
   description: This lesson is about how and why to share code, what kind of licenses are used in what situation and how software can be cited. **[Tutorial]**
   tags: {Licensing}
-- name: High Performance Data Analytics in Python
+- name: High Performance Data Analytics in Python
   url: https://enccs.github.io/HPDA-Python/
   author: ENCCS
   description: This lesson gives an overview of working with research data in Python using general libraries for storing, processing, analysing and sharing data. The focus is on high performance. After covering tools for performant processing on single workstations the focus shifts to profiling and optimising, parallel and distributed computing and finally GPU computing. **[Tutorial]**
