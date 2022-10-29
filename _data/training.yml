@@ -1,3 +1,53 @@
+- name: Introduction to version control with Git
+  url: https://coderefinery.github.io/git-intro/
+  author: CodeRefinery
+  description: Introductory/intermediate lesson on version control using Git. It starts from the basics but proceeds to cover branching, merging, conflict resolution, inspecting history, sharing repositories online, undoing, using the staging area, aliases/configuration, Git under the hood. **[Tutorial]**
+  tags: {Git}
+- name: Collaborative distributed version control with Git
+  url: https://coderefinery.github.io/git-collaborative
+  author: CodeRefinery
+  description: Intermediate lesson on collaborative distributed version control with Git. Covers remotes, pull requests, code review, centralized and forking workflows, Git hooks, bare vs non-bare repositories. **[Tutorial]**
+  tags: {Git, Collaboration}  
+- name: Reproducible research
+  url: https://coderefinery.github.io/reproducible-research/
+  author: CodeRefinery
+  description: Lesson on different methods and tools for better reproducibility in research software and data. It demonstrates how version control, workflows, containers, and package managers can be used to record reproducible environments and computational steps. **[Tutorial]**
+  tags: {Reproducibility} 
+- name: Software testing
+  url: https://coderefinery.github.io/testing/
+  author: CodeRefinery
+  description: This lesson is about why testing often needs to be part of the software development cycle and how such a cycle can be implemented. In demonstrates how automated testing works and shows how tests can be designed and implemented in different programming languages. **[Tutorial]**
+  tags: {CI, Testing}
+- name: Modular code development
+  url: https://coderefinery.github.io/modular-type-along/
+  author: CodeRefinery
+  description: Type-along/demo on aspects of (un)modular code development. Focus is on the “why”, not on the “how”. **[Tutorial]**
+  tags: {Software Engineering, Design}
+- name: Code documentation
+  url: https://coderefinery.github.io/documentation/
+  author: CodeRefinery
+  description: This lesson discusses different solutions for implementing and deploying code documentation. It shows how to build documentation with the documentation generator Sphinx (and compare it with others) and how to deploy it to Read the Docs, a service which hosts open documentation for free. It also shows how to deploy a project website or personal homepage to GitHub Pages. **[Tutorial]**
+  tags: {Documentation}
+- name: Social coding
+  url: https://coderefinery.github.io/social-coding/
+  author: CodeRefinery
+  description: This lesson is about how and why to share code, what kind of licenses are used in what situation and how software can be cited. **[Tutorial]**
+  tags: {Licensing}
+- name: High Performance Data Analytics in Python
+  url: https://enccs.github.io/HPDA-Python/
+  author: ENCCS
+  description: This lesson gives an overview of working with research data in Python using general libraries for storing, processing, analysing and sharing data. The focus is on high performance. After covering tools for performant processing on single workstations the focus shifts to profiling and optimising, parallel and distributed computing and finally GPU computing. **[Tutorial]**
+  tags: {Python in Research, Performance}
+- name: Julia for high-performance scientific computing
+  url: https://enccs.github.io/Julia-for-HPC/
+  author: ENCCS
+  description: This lesson starts with the basics of Julia, its syntax, multiple-dispatch paradigm, package development and best practices. It then moves on to topics relevant to high-performance scientific computing, including an overview of powerful libraries for modeling and machine learning, visualization, parallelization and GPU computing. **[Tutorial]**
+  tags: {Performance}
+- name: CMake hands-on workshop
+  url: https://enccs.github.io/cmake-workshop/
+  author: ENCCS 
+  description: CMake is a language-agnostic, cross-platform build tool and is nowadays the de facto standard, with large projects using it to reliably build, test, and deploy their codebases. You will learn how to Write a CMake build system for C, C++, and Fortran projects producing libraries and/or executables; Run tests for your code with CTest; Ensure your build system will work on different platforms; Detect and use external dependencies in your project; Safely and effectively build mixed-language projects (Python+C/C++, Python+Fortran, Fortran+C/C++). **[Tutorial]**
+  tags: {Packaging}
 - name: Improving Reproducibility Through Better Software Practices
   url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-9-Bernholdt-Reproducibility.pdf
   author: David E. Bernholdt
