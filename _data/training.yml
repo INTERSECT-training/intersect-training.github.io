@@ -7,12 +7,12 @@
   url: https://coderefinery.github.io/git-collaborative
   author: CodeRefinery
   description: Intermediate lesson on collaborative distributed version control with Git. Covers remotes, pull requests, code review, centralized and forking workflows, Git hooks, bare vs non-bare repositories. **[Tutorial]**
-  tags: {Git, Collaboration}  
+  tags: {Git, Collaboration}
 - name: Reproducible research
   url: https://coderefinery.github.io/reproducible-research/
   author: CodeRefinery
   description: Lesson on different methods and tools for better reproducibility in research software and data. It demonstrates how version control, workflows, containers, and package managers can be used to record reproducible environments and computational steps. **[Tutorial]**
-  tags: {Reproducibility} 
+  tags: {Reproducibility}
 - name: Software testing
   url: https://coderefinery.github.io/testing/
   author: CodeRefinery
@@ -45,7 +45,7 @@
   tags: {Performance}
 - name: CMake hands-on workshop
   url: https://enccs.github.io/cmake-workshop/
-  author: ENCCS 
+  author: ENCCS
   description: CMake is a language-agnostic, cross-platform build tool and is nowadays the de facto standard, with large projects using it to reliably build, test, and deploy their codebases. You will learn how to Write a CMake build system for C, C++, and Fortran projects producing libraries and/or executables; Run tests for your code with CTest; Ensure your build system will work on different platforms; Detect and use external dependencies in your project; Safely and effectively build mixed-language projects (Python+C/C++, Python+Fortran, Fortran+C/C++). **[Tutorial]**
   tags: {Packaging}
 - name: Improving Reproducibility Through Better Software Practices
@@ -154,7 +154,7 @@
   location: URSSI Winter School
   location_url: https://github.com/si2-urssi/winterschool/blob/master/README.md
   date: 2019-12-18
-  description: This talk provides on the basics of Collaboration with Git & GitHub. **[Slides]** 
+  description: This talk provides on the basics of Collaboration with Git & GitHub. **[Slides]**
   tags: {Git, Collaboration}
 - name: Git Exercises
   url: https://jameshowison.github.io/peer_production_course/docs/additional_git_exercises.html
@@ -237,7 +237,7 @@
   description: This presentation provides a basic of software testing and verification. **[Slides]**
   tags: {Testing, Software Engineering}
 - name: Refactoring
-  url: https://press3.mcs.anl.gov/atpesc/files/2020/08/ATPESC-2020-Track-7-Talk-7-Dubey-Refactoring.pdf
+  url: https://wordpress.cels.anl.gov/atpesc/wp-content/uploads/sites/96/2020/08/ATPESC-2020-Track-7-Talk-7-Dubey-Refactoring-1.pdf
   author: Anshu Dubey
   location: ATPSEC
   location_url: https://extremecomputingtraining.anl.gov/
