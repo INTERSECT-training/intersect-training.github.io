@@ -7,7 +7,7 @@ header:
 permalink: "/bootcamps/"
 ---
 
-The Research Software Engineering Bootcamp will be a 4-5 day intensive workshop targeting graduate students, postdocoral researchers, and others who self-identify as intermediate to advanced research
+The Research Software Engineering Bootcamp will be a 4.5 day intensive workshop targeting graduate students, postdocoral researchers, and others who self-identify as intermediate to advanced research
 software developers.
 The focus here will be on practices that will improve the quality, reproducibility, and
 sustainability of software.
@@ -39,12 +39,7 @@ Unlike the developers themselves, users of software lack the sophistication requ
 life expectancy of the software grows.
 Good documentation is critical to ensure others (including the original developer in the future) have the information necessary to maintain and extend the capabilities of the research software.
 In addition to techniques and strategies, source code documentation tools such as such as doxygen and sphinx will be covered.
-* **Performance and Optimization:** The typical computer science axiom “make it work, then make it
-fast” is often stopped in the research world after the “make it work” stage, unless performance is
-preventing science advances.
-Decreasing the time to solution not only saves computational resources, but it can also enable users of the software to solve problems previously intractable.
-Concepts such as profiling, parallelization, and other optimization techniques are often too advanced or abstract for novices, but will be well suited for the target RSEB audience.
-Writing high-quality, fast code is one of the hallmark signs of a sophisticated programmer
+
 
 
 ### Prerequisites
@@ -54,6 +49,6 @@ For those with less experience we recommend the excellent material from The Carp
 
 ### Registration
 
-The COVID-19 pandemic will likely delay the first Research Software Engineering Bootcamp. Registration for the first Research Software Engineering Bootcamp will be announced broadly months before the event.  
+More information for the 2023 INTERSECT bootcamp can be found on the [bootcamp23 page]( {{site.url}}{{site.baseurl}}/bootcamp23/).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/participate/">Sign up for mailing list updates ›</a>
