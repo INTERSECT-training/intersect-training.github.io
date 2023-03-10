@@ -24,7 +24,7 @@ Where possible, we will aim to keep instruction uncoupled from specific language
 Because this is nearly impossible, we expect attendees to have a working knowledge of python, basic git commands and functionality, competency with an editor, and experience working with the command line.
 Additionally, participants should be comfortable managing their own development environment on their laptop. 
 
-Our INTERSECT [learner profiles](({{ site.url }}{{ site.baseurl }})learner-profiles/) provide examples of the types of people for whom this workshop is appropriate.
+Our INTERSECT [learner profiles]({{ site.url }}{{ site.baseurl }}/learner-profiles/) provide examples of the types of people for whom this workshop is appropriate.
 However, we welcome anyone who fits the description above to submit an application for the Bootcamp.
 
 ## Topics/Agenda
