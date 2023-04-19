@@ -6,10 +6,6 @@ subheadline: "Information for participants traveling to Princeton"
 permalink: "/travel-princeton/"
 ---
 
-## COVID-19 Policy
-All participants must to adhere to all Princeton University [guidelines, policies, and protocols for visitors and conferences](https://covid.princeton.edu/policies) in place at the time of the workshop.
-As of June, 2022, this would require attesting to vaccination prior to arrival.
-
 
 ## General Notes
 A hotel block has been reserved at the Nassau Inn in Princeton, NJ, located adjacent to
