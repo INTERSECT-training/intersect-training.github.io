@@ -39,7 +39,7 @@ All instruction sessions will take place in PCTS, Jadwin Hall, 4th floor.
 | 1:00 - 2:00 | Making Good PRs | TBD | Jadwin Hall 4th Floor |
 | 2:00 - 3:00 | Documentation | TBD | Jadwin Hall 4th Floor |
 | 3:00 - 3:15 | Break | | PCTS Lobby |
-| 3:15 - 4:15 | Issue Tracking | TBD | Jadwin Hall 4th Floor |
+| 3:15 - 4:45 | Issue Tracking | TBD | Jadwin Hall 4th Floor |
 | 6:00 - 9:00 | Reception Dinner |  | Palmer House |
 
 
