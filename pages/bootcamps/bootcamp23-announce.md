@@ -5,7 +5,7 @@ title: "INTERSECT Bootcamp '23"
 subheadline: "First INTERSECT Bootcamp"
 teaser: "July 10-14, Princeton University"
 header:
-permalink: "/bootcamp23/"
+permalink: "/bootcamp23-announce/"
 ---
 
 
