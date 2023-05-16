@@ -15,7 +15,8 @@ The INTERSECT Research Software Engineering Bootcamp will be a 4.5 day intensive
 # Agenda
 Please note this is preliminary and likely to change!  
 
-All instruction sessions will take place in at Princeton Univeristy, PCTS, Jadwin Hall, 4th floor. 
+All instruction sessions will take place at Princeton University, PCTS, [Jadwin Hall](
+https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt)), 4th floor. 
 
 ### Day 1 - Monday, July 10
 
