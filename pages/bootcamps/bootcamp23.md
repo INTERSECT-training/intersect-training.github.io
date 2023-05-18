@@ -30,7 +30,7 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt)), 4th floor.
 | 1:30 - 2:45 | Packaging & Distribution <br/> Part 1 | Henry Schreiner | Jadwin Hall 4th Floor |
 | 2:45 - 3:15 | Break | | PCTS Lobby |
 | 3:15 - 4:30 | Packaging & Distribution <br/> Part 2 | Henry Schreiner | Jadwin Hall 4th Floor |
-| 4:45 - 6:15 | Welcome Reception & Dinner | | Lewis Library Atrium |
+| 4:45 - 6:45 | Welcome Reception & Dinner | | Lewis Library Atrium |
 
 *The Monday evening welcome reception is supported by our additional Princeton [sponsors](#sponsors): CSML, DDSS, PICSciE, and SEAS. 
 
