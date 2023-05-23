@@ -1,78 +1,20 @@
 ---
-layout: page
-show_meta: false
+layout: redirect
 title: "PRELIMINARY Bootcamp'23 Agenda"
-subheadline: "INTERSECT Bootcamp '23"
-teaser: "July 10-14, Princeton University"
-header:
 permalink: "/bootcamp23/agenda"
+redirect_to: "/bootcamp23/"
 ---
 
-Please note this is preliminary and likely to change!  
-Details such as time and instructors will be added as they are available.
-
-All instruction sessions will take place in PCTS, Jadwin Hall, 4th floor. 
-
-## Day 1 - Monday, July 10
-
-| Time | Session Title | Instructor(s) | Location |
-| 8:00 - 8:45 | Registration & Breakfast |  | Jadwin Hall 4th Floor |
-| 8:45 - 9:00 | Welcome & Introduction | Ian Cosden & Jeff Carver | Jadwin Hall 4th Floor |
-| 9:00 - 10:30 | Design Part 1 | Anshu Dubey & TBD | Jadwin Hall 4th Floor |
-| 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 12:30 | Design Part 2 | Anshu Dubey & TBD | Jadwin Hall 4th Floor |
-| 12:30 - 1:30 | Lunch |  | PCTS lobby |
-| 1:30 - 2:45 | Packaging and Distribution Part 1 | Henry Schreiner | Jadwin Hall 4th Floor |
-| 2:45 - 3:15 | Break | | PCTS Lobby |
-| 3:15 - 4:30 | Packaging and Distribution Part 2 | Henry Schreiner | Jadwin Hall 4th Floor |
-| 4:45 - 6:15 | Welcome Reception - TENTATIVE | | Lewis Library Atrium |
-
-## Day 2 - Tuesday, July 11
-
-| Time | Session Title | Instructor(s) | Location |
-| 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00 - 9:15 | Working Collaboratively Intro | TBD | Jadwin Hall 4th Floor |
-| 9:15 - 10:30 | Collaborative Git Part 1 | Lauren Milechin | Jadwin Hall 4th Floor |
-| 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 12:00 | Collaborative Git Part 2 | Lauren Milechin | Jadwin Hall 4th Floor |
-| 12:00 - 1:00 | Lunch |  | PCTS lobby |
-| 1:00 - 2:00 | Issue Tracking | Miranda Mundt | Jadwin Hall 4th Floor |
-| 2:00 - 3:00 | Making Good PRs | Miranda Mundt | Jadwin Hall 4th Floor |
-| 3:00 - 3:15 | Break | | PCTS Lobby |
-| 3:15 - 4:45 | Documentation | Miranda Mundt | Jadwin Hall 4th Floor |
-| 6:00 - 9:00 | Reception Dinner |  | Palmer House |
-
-
-## Day 3 - Wednesday, July 12
-
-| Time | Session Title | Instructor(s) | Location |
-| 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00 - 10:30 | Project Management | Dave Rumph | Jadwin Hall 4th Floor |
-| 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 12:15 | Licensing | David Bernholdt | Jadwin Hall 4th Floor |
-| 12:15 - | Lunch |  | PCTS lobby |
-
-*Note: no formal bootcamp activities are planned for Wednesday afternoon.
-Participants may use this time to explore the area, connect with other participants, or just decompress. 
-
-## Day 4 - Thursday, July 13
-
-| Time | Session Title | Instructor(s) | Location |
-| 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00 - 10:45 | Code Review | Dave Rumph | Jadwin Hall 4th Floor |
-| 10:45 - 11:00 | Break | | PCTS Lobby |
-| 11:00 - 12:15 | Building a Community | Dave Rumph | Jadwin Hall 4th Floor |
-| 12:15 - 1:15 | Lunch |  | PCTS lobby |
-| 1:15 - 3:00 | Testing Part 1 | Upulee Kanewala & Gabe Perez-Giz | Jadwin Hall 4th Floor |
-| 3:00 - 3:15 | Break | | PCTS Lobby |
-| 3:15 - 4:30 | Testing Part 2 | Upulee Kanewala & Gabe Perez-Giz | Jadwin Hall 4th Floor |
-
-## Day 5 - Friday, July 14
-
-| Time | Session Title | Instructor(s) | Location |
-| 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00- 10:30 | CI/CD Part 1 | Marshall McDonnell | Jadwin Hall 4th Floor |
-| 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 11:45 | CI/CD Part 2  | Marshall McDonnell | Jadwin Hall 4th Floor |
-| 11:45 - 12:00 | Survey & Final Remarks | Ian Cosden & Jeff Carver | Jadwin Hall 4th Floor |
-| 12:00 - | Boxed To-Go Lunch |  | PCTS lobby |
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="canonical" href="{{ page.redirect_to }}"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="0;url={{ page.redirect_to }}" />
+</head>
+<body>
+    <h1>Redirecting...</h1>
+      {{ site.data.language.if_you_are_not_redirected_automatically }} <a href="{{ page.redirect_to }}">{{ site.data.language.click_here }}</a>.
+      <script>location='{{ page.redirect_to }}'</script>
+</body>
+</html>
