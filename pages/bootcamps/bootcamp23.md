@@ -38,7 +38,7 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 
 | Time | Session Title | Instructor(s) | Location |
 | 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00 - 9:15 | Working Collaboratively Intro | TBD | Jadwin Hall 4th Floor |
+| 9:00 - 9:15 | Working Collaboratively Intro | Dave Rumph & <br/> Lauren Milechin | Jadwin Hall 4th Floor |
 | 9:15 - 10:30 | Collaborative Git Part 1 | Lauren Milechin | Jadwin Hall 4th Floor |
 | 10:30 - 10:45 | Break | | PCTS Lobby |
 | 10:45 - 12:00 | Collaborative Git Part 2 | Lauren Milechin | Jadwin Hall 4th Floor |
