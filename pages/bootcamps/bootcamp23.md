@@ -32,7 +32,7 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 | 3:15 - 4:45 | Packaging & Distribution <br/> Part 2 | Henry Schreiner | Jadwin Hall 4th Floor |
 | 5:00 - 7:00 | Welcome Reception & Dinner | | Lewis Library Atrium |
 
-*The Monday evening welcome reception is supported by our additional Princeton [sponsors](#sponsors): CSML, DDSS, PICSciE, and SEAS. 
+*The Monday evening welcome reception is supported by our additional Princeton [sponsors](#sponsors): CDH, CSML, DDSS, PICSciE, and SEAS. 
 
 ### Day 2 - Tuesday, July 11
 
@@ -108,6 +108,7 @@ Our INTERSECT [learner profiles]({{ site.url }}{{ site.baseurl }}/learner-profil
 # Sponsors
 Travel funding is provided via NSF.  
 We'd like to thank our additional sponsors for helping support breakfasts, lunches, and dinners: 
+* [The Center for Digital Humanities (CDH)](https://cdh.princeton.edu/)
 * [The Center for Statistics and Machine Learning (CSML)](https://csml.princeton.edu/)
 * [The Data Driven Social Science Initiative (DDSS)](https://ddss.princeton.edu/)
 * [The Princeton Institute for Computational Science and Engineering (PICSciE)](https://researchcomputing.princeton.edu/)
