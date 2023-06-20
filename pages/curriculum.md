@@ -15,7 +15,7 @@ The curriculum is consist of a set of standardized *modules*, so that students c
 ### Basics
 
 
-{% include list_of_selected_training_modules.html ids="design,packaging,testing,collabgit,issues,prs,licensing,review,community,testing,cicd" %}
+{% include list_of_selected_training_modules.html ids="design,packaging,testing,collabgit,issues,prs,licensing,review,community,testing,ci-cd" %}
 
 
 
