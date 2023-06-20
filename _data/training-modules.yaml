@@ -212,7 +212,7 @@
   status: alpha
   videos: ''
   webpage: https://intersect-training.org/collaborative-git/
-  id: git
+  id: collabgit
 
 - description: 'Module introducing issue tracking.'
   name: Issue Tracking
