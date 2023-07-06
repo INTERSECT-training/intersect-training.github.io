@@ -16,7 +16,7 @@ The INTERSECT Research Software Engineering Bootcamp will be a 4.5 day intensive
 Please note this is preliminary and likely to change!  
 
 All instruction sessions will take place at Princeton University, PCTS, [Jadwin Hall](
-https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor. 
+https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 
 ### Day 1 - Monday, July 10
 
@@ -32,7 +32,7 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 | 3:15 - 4:45 | Packaging & Distribution <br/> Part 2 | Henry Schreiner | Jadwin Hall 4th Floor |
 | 5:00 - 7:00 | Welcome Reception & Dinner | | Lewis Library Atrium |
 
-*The Monday evening welcome reception is supported by our additional Princeton [sponsors](#sponsors): CDH, CSML, DDSS, PICSciE, and SEAS. 
+*The Monday evening welcome reception is supported by our additional Princeton [sponsors](#sponsors): CDH, CSML, DDSS, PICSciE, and SEAS.
 
 ### Day 2 - Tuesday, July 11
 
@@ -61,15 +61,15 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 | 12:15 - | Lunch |  | PCTS lobby |
 
 *Note: no formal bootcamp activities are planned for Wednesday afternoon.
-Participants may use this time to explore the area, connect with other participants, or just decompress. 
+Participants may use this time to explore the area, connect with other participants, or just decompress.
 
 ### Day 4 - Thursday, July 13
 
 | Time | Session Title | Instructor(s) | Location |
 | 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00 - 10:45 | Code Review | Dave Rumph | Jadwin Hall 4th Floor |
+| 9:00 - 10:45 | Code Review & Pair Programming | Dave Rumph | Jadwin Hall 4th Floor |
 | 10:45 - 11:00 | Break | | PCTS Lobby |
-| 11:00 - 12:15 | Building a Community | Dave Rumph | Jadwin Hall 4th Floor |
+| 11:00 - 12:15 | Code Review & Pair Programming | Dave Rumph | Jadwin Hall 4th Floor |
 | 12:15 - 1:15 | Lunch |  | PCTS lobby |
 | 1:15 - 3:00 | Testing Part 1 | Upulee Kanewala & <br/> Gabe Perez-Giz | Jadwin Hall 4th Floor |
 | 3:00 - 3:15 | Break | | PCTS Lobby |
@@ -107,7 +107,7 @@ Our INTERSECT [learner profiles]({{ site.url }}{{ site.baseurl }}/learner-profil
 <a name="sponsors"></a>
 # Sponsors
 Travel funding is provided via NSF.  
-We'd like to thank our additional sponsors for helping support breakfasts, lunches, and dinners: 
+We'd like to thank our additional sponsors for helping support breakfasts, lunches, and dinners:
 * [The Center for Digital Humanities (CDH)](https://cdh.princeton.edu/)
 * [The Center for Statistics and Machine Learning (CSML)](https://csml.princeton.edu/)
 * [The Data Driven Social Science Initiative (DDSS)](https://ddss.princeton.edu/)
