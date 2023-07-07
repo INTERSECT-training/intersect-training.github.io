@@ -42,7 +42,8 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 | 9:15 - 10:30 | Collaborative Git Part 1 | Lauren Milechin | Jadwin Hall 4th Floor |
 | 10:30 - 10:45 | Break | | PCTS Lobby |
 | 10:45 - 12:00 | Collaborative Git Part 2 | Lauren Milechin | Jadwin Hall 4th Floor |
-| 12:00 - 1:00 | Lunch |  | PCTS lobby |
+| 12:00 - 12:10 | Group Photo |  | Outside Jadwin Hall |
+| 12:10 - 1:00 | Lunch |  | PCTS lobby |
 | 1:00 - 2:00 | Issue Tracking | Miranda Mundt | Jadwin Hall 4th Floor |
 | 2:00 - 3:00 | Making Good PRs | Miranda Mundt | Jadwin Hall 4th Floor |
 | 3:00 - 3:15 | Break | | PCTS Lobby |
