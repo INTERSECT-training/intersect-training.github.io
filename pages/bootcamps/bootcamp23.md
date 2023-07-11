@@ -47,7 +47,7 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 | 2:00 - 3:00 | Making Good PRs | Miranda Mundt | Jadwin Hall 4th Floor |
 | 3:00 - 3:15 | Break | | PCTS Lobby |
 | 3:15 - 4:45 | Documentation | Miranda Mundt | Jadwin Hall 4th Floor |
-| 6:00 - 9:00 | Reception Dinner |  | Palmer House |
+| 6:00 - 9:00 | Reception Dinner |  | [Palmer House](https://www.princeton.edu/palmerhouse/) |
 
 *The Tuesday evening reception dinner is [sponsored](#sponsors) by OIT RC.
 
