@@ -1,5 +1,5 @@
 ---
-title: "INTERSECT Research Software Training Center"
+title: "INTERSECT Research Software Training Modules"
 layout : page
 permalink: "/curriculum/" 
 ---
