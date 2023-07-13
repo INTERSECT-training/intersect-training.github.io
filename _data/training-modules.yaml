@@ -270,9 +270,21 @@
   webpage: https://intersect-training.org/CI-CD/
   id: ci-cd
 
+- description: 'Module introducing documentation practices.'
+  name: Documentation
+  repository: https://github.com/INTERSECT-training/Documentation
+  status: alpha
+  videos: ''
+  webpage: https://intersect-training.org/Documentation/
+  id: documentation
 
-
-
+- description: 'Module introducing project management.'
+  name: Project Management
+  repository: https://github.com/INTERSECT-training/Project-Management
+  status: alpha
+  videos: ''
+  webpage: https://intersect-training.org/Project-Management/
+  id: project-management
 
 
   
