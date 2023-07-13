@@ -9,7 +9,7 @@ permalink: "/curriculum/"
 ### Basics
 
 
-{% include list_of_selected_training_modules.html ids="design,packaging,collabgit,issues,prs,licensing,review,community,testing,ci-cd" %}
+{% include list_of_selected_training_modules.html ids="design,packaging,collabgit,issues,prs,licensing,review,community,testing,ci-cd,documentation,project-management" %}
 
 
 
