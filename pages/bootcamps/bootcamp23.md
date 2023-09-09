@@ -8,7 +8,6 @@ header:
 permalink: "/bootcamp23/"
 ---
 
-
 The INTERSECT Research Software Engineering Bootcamp will be a 4.5 day intensive hands-on workshop focusing on practices that will help research software developers improve the quality, reproducibility, and sustainability of their software.  
 
 
@@ -23,13 +22,13 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 | Time | Session Title | Instructor(s) | Location |
 | 8:00 - 8:45 | Registration & Breakfast |  | Jadwin Hall 4th Floor |
 | 8:45 - 9:00 | Welcome & Introduction | Ian Cosden & <br/> Jeff Carver | Jadwin Hall 4th Floor |
-| 9:00 - 10:30 | Design Part 1 | Anshu Dubey & <br/> Abhishek Biswas | Jadwin Hall 4th Floor |
+| 9:00 - 10:30 | [Design Part 1](https://intersect-training.org/Design/) | Anshu Dubey & <br/> Abhishek Biswas | Jadwin Hall 4th Floor |
 | 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 12:30 | Design Part 2 | Anshu Dubey & <br/> Abhishek Biswas | Jadwin Hall 4th Floor |
+| 10:45 - 12:30 | [Design Part 2](https://intersect-training.org/Design) | Anshu Dubey & <br/> Abhishek Biswas | Jadwin Hall 4th Floor |
 | 12:30 - 1:30 | Lunch |  | PCTS lobby |
-| 1:30 - 2:45 | Packaging & Distribution <br/> Part 1 | Henry Schreiner | Jadwin Hall 4th Floor |
+| 1:30 - 2:45 | [Packaging & Distribution <br/> Part 1](https://intersect-training.org/packaging/) | Henry Schreiner | Jadwin Hall 4th Floor |
 | 2:45 - 3:15 | Break | | PCTS Lobby |
-| 3:15 - 4:45 | Packaging & Distribution <br/> Part 2 | Henry Schreiner | Jadwin Hall 4th Floor |
+| 3:15 - 4:45 | [Packaging & Distribution <br/> Part 2](https://intersect-training.org/packaging/) | Henry Schreiner | Jadwin Hall 4th Floor |
 | 5:00 - 7:00 | Welcome Reception & Dinner | | Lewis Library Atrium |
 
 *The Monday evening welcome reception is supported by our additional Princeton [sponsors](#sponsors): CDH, CSML, DDSS, PICSciE, and SEAS.
@@ -39,14 +38,14 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 | Time | Session Title | Instructor(s) | Location |
 | 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
 | 9:00 - 9:15 | Working Collaboratively Intro | Dave Rumph & <br/> Lauren Milechin | Jadwin Hall 4th Floor |
-| 9:15 - 10:30 | Collaborative Git Part 1 | Lauren Milechin | Jadwin Hall 4th Floor |
+| 9:15 - 10:30 | [Collaborative Git Part 1](https://intersect-training.org/collaborative-git/) | Lauren Milechin | Jadwin Hall 4th Floor |
 | 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 12:00 | Collaborative Git Part 2 | Lauren Milechin | Jadwin Hall 4th Floor |
+| 10:45 - 12:00 | [Collaborative Git Part 2](https://intersect-training.org/collaborative-git/) | Lauren Milechin | Jadwin Hall 4th Floor |
 | 12:00 - 1:00 | Lunch |  | PCTS lobby |
-| 1:00 - 2:00 | Issue Tracking | Miranda Mundt | Jadwin Hall 4th Floor |
-| 2:00 - 3:00 | Making Good PRs | Miranda Mundt | Jadwin Hall 4th Floor |
+| 1:00 - 2:00 | [Issue Tracking](https://intersect-training.org/Issue-Tracking/) | Miranda Mundt | Jadwin Hall 4th Floor |
+| 2:00 - 3:00 | [Making Good PRs](https://intersect-training.org/Making-Good-PRs/) | Miranda Mundt | Jadwin Hall 4th Floor |
 | 3:00 - 3:15 | Break | | PCTS Lobby |
-| 3:15 - 4:45 | Documentation | Miranda Mundt | Jadwin Hall 4th Floor |
+| 3:15 - 4:45 | [Documentation](https://intersect-training.org/Documentation/) | Miranda Mundt | Jadwin Hall 4th Floor |
 | 6:00 - 9:00 | Reception Dinner |  | [Palmer House](https://www.princeton.edu/palmerhouse/) |
 
 *The Tuesday evening reception dinner is [sponsored](#sponsors) by OIT RC.
@@ -55,9 +54,9 @@ https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 
 | Time | Session Title | Instructor(s) | Location |
 | 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00 - 10:30 | Project Management | Dave Rumph | Jadwin Hall 4th Floor |
+| 9:00 - 10:30 | [Project Management](https://intersect-training.org/Project-Management/presentations/ProjectManagement.pdf) | Dave Rumph | Jadwin Hall 4th Floor |
 | 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 12:15 | Licensing | David Bernholdt | Jadwin Hall 4th Floor |
+| 10:45 - 12:15 | [Licensing](https://intersect-training.org/software-licensing/) | David Bernholdt | Jadwin Hall 4th Floor |
 | 12:15 - 12:30 | Group Photo |  | Outside Jadwin Hall |
 | 12:30 - | Lunch |  | PCTS lobby |
 
@@ -68,21 +67,21 @@ Participants may use this time to explore the area, connect with other participa
 
 | Time | Session Title | Instructor(s) | Location |
 | 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00 - 10:45 | Code Review & Pair Programming | Dave Rumph | Jadwin Hall 4th Floor |
+| 9:00 - 10:45 | [Code Review & Pair Programming](https://intersect-training.org/Code-Review/presentations/CollaborativeConstruction.pdf) | Dave Rumph | Jadwin Hall 4th Floor |
 | 10:45 - 11:00 | Break | | PCTS Lobby |
-| 11:00 - 12:15 | Code Review & Pair Programming | Dave Rumph | Jadwin Hall 4th Floor |
+| 11:00 - 12:15 | [Code Review & Pair Programming](https://intersect-training.org/Code-Review/presentations/CollaborativeConstruction.pdf) | Dave Rumph | Jadwin Hall 4th Floor |
 | 12:15 - 1:15 | Lunch |  | PCTS lobby |
-| 1:15 - 3:00 | Testing Part 1 | Upulee Kanewala & <br/> Gabe Perez-Giz | Jadwin Hall 4th Floor |
+| 1:15 - 3:00 | [Testing Part 1](https://intersect-training.org/testing-lesson/) | Upulee Kanewala & <br/> Gabe Perez-Giz | Jadwin Hall 4th Floor |
 | 3:00 - 3:15 | Break | | PCTS Lobby |
-| 3:15 - 4:30 | Testing Part 2 | Upulee Kanewala & <br/> Gabe Perez-Giz | Jadwin Hall 4th Floor |
+| 3:15 - 4:30 | [Testing Part 2](https://intersect-training.org/testing-lesson/) | Upulee Kanewala & <br/> Gabe Perez-Giz | Jadwin Hall 4th Floor |
 
 ### Day 5 - Friday, July 14
 
 | Time | Session Title | Instructor(s) | Location |
 | 8:30 - 9:00 | Breakfast |  | Jadwin Hall 4th Floor |
-| 9:00- 10:30 | CI/CD Part 1 | Marshall McDonnell | Jadwin Hall 4th Floor |
+| 9:00- 10:30 | [CI/CD Part 1](https://intersect-training.org/CI-CD/) | Marshall McDonnell | Jadwin Hall 4th Floor |
 | 10:30 - 10:45 | Break | | PCTS Lobby |
-| 10:45 - 11:45 | CI/CD Part 2  | Marshall McDonnell | Jadwin Hall 4th Floor |
+| 10:45 - 11:45 | [CI/CD Part 2](https://intersect-training.org/CI-CD/)  | Marshall McDonnell | Jadwin Hall 4th Floor |
 | 11:45 - 12:00 | Survey & Final Remarks | Ian Cosden & <br/> Jeff Carver | Jadwin Hall 4th Floor |
 | 12:00 - | Boxed To-Go Lunch |  | PCTS lobby |
 
