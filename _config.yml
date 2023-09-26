@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'INTERSECT'
+title: 'EASI'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Research Software Engineering Training'
+slogan: 'Experiments-As-A-Service-Infrastructure'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'INTERSECT is an NSF funded project entitled "INovative Training Enabled by a Research Software Engineering Community of Trainers"'
+description: 'EASI is an NSF funded project entitled "Experiments-As-a-Service-Infrastructure (EASI) to enable a collaborative ecosystem of experimentation in real-world educational settings"'
 
 # Content licesnse to show in footer
 license: 'Content on this site, except where indicated otherwise, is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>.'
@@ -27,11 +27,11 @@ credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll<
 
 # Main author of the website
 # See > authors.yml
-author: cosden
+author: Carver
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://intersect-training.github.io'
+url: 'https://AdaptiveExperiments.github.io'
 baseurl:
 
 
@@ -45,7 +45,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://intersect-training.github.io/images/'
+urlimg: 'https://AdaptiveExperiments.github.io/images/'
 
 
 # Logo size is 600x80 pixels

@@ -8,16 +8,18 @@
   dropdown:
    - title: "Project Overview"
      url: "/overview/"
-   - title: "Team"
+   - title: "Adaptive Component"
      url: "/team/"
+   - title: "A/B Testing"
+     url: "/abtesting/"
 
-- title: "Events"
+- title: "Conferences & Events"
   url: "/"
   side: left
   dropdown:
-    - title: "Bootcamp23"
+    - title: "SIPS Workshop"
       url: "/bootcamp23/"
-    - title: "Workshops"
+    - title: "Call"
       url: "/workshops/"
     - title: Bootcamps
       url: "/bootcamps/"

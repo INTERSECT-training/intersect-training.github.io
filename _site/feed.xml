@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>EASI</title>
+		<description>EASI is an NSF funded project entitled &quot;Experiments-As-a-Service-Infrastructure (EASI) to enable a collaborative ecosystem of experimentation in real-world educational settings&quot;</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>2023 INTERSECT Bootcamp Applications Open</title>
+				<link>http://localhost:4000/announcement/announcing-bootcamp23/</link>
+				<pubDate>Fri, 10 Mar 2023 00:00:00 -0600</pubDate>
+				<description>&lt;p&gt;We are excited to announce that we have opened &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdmmrhWNgvjx-H3qk72w9ifeu4s717Jo1EwTZpDj4pxjtTl4A/viewform?usp=sf_link&quot;&gt;applications&lt;/a&gt; for the &lt;a href=&quot;http://localhost:4000/bootcamp23/&quot;&gt;2023 INTERSECT Bootcamp&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please &lt;a href=&quot;https://intersect-training.org/contact/&quot;&gt;contact us&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/announcement/announcing-bootcamp23/</guid>
+			</item>
+		
+			<item>
+				<title>First INTERSECT Content Development Workshop</title>
+				<link>http://localhost:4000/announcement/intersect-RSE-workshop/</link>
+				<pubDate>Fri, 19 Aug 2022 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;As part of the NSF-funded INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT) project, we held the first RSE Workshop to begin developing content for the INTERSECT-sponsored &lt;a href=&quot;https://intersect-training.org/bootcamps/&quot;&gt;RSE Bootcamps&lt;/a&gt;. This first workshop, held at Princeton University, included 16 participants who were active RSEs, RSE trainers, managers of RSEs, and academics working with and studying research software. The goal of this 1.5 day workshop was to begin generating the content for training modules on key topics for intermediate to advanced research software developers.&lt;/p&gt;
+
+&lt;p&gt;As the focus of the workshop was content generation, we divided into smaller groups to design and begin building content for five important topics: Software Design, Software Testing, Working Collaboratively, Packing and Distribution, and Deployment. Over the course of the 1.5 day workshop, each group began by defining learning objectives, brainstorming the content that belongs in each unit, outlining that content into a coherent flow, and then populating the outlines with content.  Each group made plans for finishing or continuing the work after the conclusion of the workshop. After these initial groups wrap up, each module will be available for comment and contribution by the larger community once the first version is complete.&lt;/p&gt;
+
+&lt;p&gt;Following other successful models, including The Carpentries, we organized the topics into a series of lessons hosted in GitHub repositories. At this time, three groups have begun to populate their repositories: &lt;a href=&quot;https://github.com/INTERSECT-training/software-design&quot;&gt;Software Design&lt;/a&gt;, &lt;a href=&quot;https://github.com/INTERSECT-training/testing&quot;&gt;Software Testing&lt;/a&gt;, and &lt;a href=&quot;https://github.com/INTERSECT-training/packaging&quot;&gt;Packaging and Distribution&lt;/a&gt;. The next steps to continue developing the content for these modules include: virtual meetings, asynchronous content generation, and additional workshops. We are also planning to hold the first INTERSECT-sponsored RSE Bootcamp in Summer 2023. If you are interested in contributing to the modules, &lt;a href=&quot;https://intersect-training.org/contact/&quot;&gt;contact us&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/announcement/intersect-RSE-workshop/</guid>
+			</item>
+		
+			<item>
+				<title>INTERSECT VIDEO OVERVIEW</title>
+				<link>http://localhost:4000/announcement/intersect-overview-video/</link>
+				<pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+				<description>&lt;p&gt;Jeff Carver will give a presentation about INTERSECT in the &lt;a href=&quot;https://sighpceducation.acm.org/events/BPHTE21_Technical_Program.html&quot;&gt;Eighth SC Workshop on Best Practices for HPC Training and Education (BPHTE21)&lt;/a&gt;
+held during &lt;a href=&quot;https://sc21.supercomputing.org/&quot;&gt;SC21&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&quot;https://youtu.be/8kLxSW9rw-g&quot;&gt;here&lt;/a&gt; for a video of the presentation.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/announcement/intersect-overview-video/</guid>
+			</item>
+		
+			<item>
+				<title>INTERSECT POSTER at SIAM CSE21</title>
+				<link>http://localhost:4000/announcement/intersect-SIAM-poster/</link>
+				<pubDate>Sun, 28 Feb 2021 00:00:00 -0600</pubDate>
+				<description>&lt;p&gt;Our poster submission about INTERSECT was accepted to be part of the &lt;a href=&quot;https://www.siam.org/conferences/cm/conference/cse21&quot;&gt;SIAM CSE21&lt;/a&gt;
+&lt;a href=&quot;https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70380&quot;&gt;Minisymposterium: Software Productivity and Sustainability for CSE
+Workshop&lt;/a&gt;!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Jeff Carver will present the poster titled “Innovative Training Enabled by a Research Software Engineering Community of Trainers (Intersect).” 
+The poster session is scheduled for 9:25-11:25 CST on Wednesday, March 3, 2021 and is open to all SIAM CSE21 registrants.
+A copy of the poster is available on &lt;a href=&quot;https://figshare.com/articles/poster/Innovative_Training_Enabled_by_a_Research_Software_Engineering_Community_of_Trainers_INTERSECT_/14042135/1&quot;&gt;figshare&lt;/a&gt;.
+See the Minisymposterium agenda for &lt;a href=&quot;https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70380&quot;&gt;more&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/announcement/intersect-SIAM-poster/</guid>
+			</item>
+		
+			<item>
+				<title>INTERSECT Submission Accepted to SC20 workshop</title>
+				<link>http://localhost:4000/announcement/intersect-at-sc20/</link>
+				<pubDate>Wed, 30 Sep 2020 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;Our submission to introduce INTERSECT to the community was accepted to be part of the &lt;a href=&quot;https://sc20.supercomputing.org/&quot;&gt;SC20&lt;/a&gt; Workshop “&lt;a href=&quot;https://us-rse.org/rse-hpc-2020&quot;&gt;Research Software Engineers in HPC&lt;/a&gt;!”&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ian Cosden will  be a panelist for a panel discussion on the topic “RSE Careers and Skill Development.”
+The panel is scheduled for 1:00pm EST and is open to SC20 registrants.
+See the workshop agenda for &lt;a href=&quot;https://us-rse.org/rse-hpc-2020/agenda/&quot;&gt;more&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/announcement/intersect-at-sc20/</guid>
+			</item>
+		
+			<item>
+				<title>INTERSECT Organization on GitHub</title>
+				<link>http://localhost:4000/announcement/intersect-on-github/</link>
+				<pubDate>Mon, 17 Aug 2020 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;We will be hosting the INTERSECT website using GitHub. It will live at &lt;a href=&quot;https://intersect-training.github.io&quot;&gt;intersect-training.github.io&lt;/a&gt;. The GiHub organization can be found at &lt;a href=&quot;https://github.com/intersect-training&quot;&gt;github.com/intersect-training&lt;/a&gt;.
+Contributions to the website and project are welcome. Instructions for how to contribute to the website can be found in the README file in the website directory.&lt;/p&gt;
+
+&lt;p&gt;This open source approach is popular approach for research projects and personal websites/blogs.
+We hope that by building this project’s site using open-source options and hosting using a platform many are already familiar with (or will become familiar in the course of INTERSECT training) that others will be able to learn and adopt similar approaches for their projects.&lt;br /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/announcement/intersect-on-github/</guid>
+			</item>
+		
+			<item>
+				<title>INTERSECT Awarded!</title>
+				<link>http://localhost:4000/announcement/intersect-awarded/</link>
+				<pubDate>Sat, 15 Aug 2020 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;We are excited to announce that effective August 15, 2020 INTERSECT has begins
+its three year project cycle with NSF awards &lt;a href=&quot;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424&amp;amp;HistoricalAwards=false&quot;&gt;2017424&lt;/a&gt; and &lt;a href=&quot;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259&amp;amp;HistoricalAwards=false&quot;&gt;2017259&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/announcement/intersect-awarded/</guid>
+			</item>
+		
+	</channel>
+</rss>

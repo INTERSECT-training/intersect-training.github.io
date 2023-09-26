@@ -1,7 +1,7 @@
 - name: GitHub
-  url: http://github.com/INTERSECT-training
+  url: https://github.com/AdaptiveExperiments/AdaptiveExperiments.github.io
   class: icon-github
-  title: "INTERSECT GitHub Organization"
+  title: "Adaptive Experiments GitHub Organization"
 
 #- name: YouTube
 #  url:
@@ -9,6 +9,6 @@
 #  title:
 
 #- name: Twitter
-#  url: http://twitter.com/iancosden
+#  url: http://twitter.com/username
 #  class: icon-twitter
 #  title: "Follow us on Twitter"

@@ -31,7 +31,7 @@ build_jekyll: &build_jekyll
     name: Jekyll Build
     command: |
         if [ -z "$CIRCLECI_TRIGGER" ]; then
-            echo "Building INTERSECT Site for Preview"
+            echo "Building EASI Site for Preview"
             cp ~/repo/.circleci/circle_urls.sh ~/repo/circle_urls.sh
             cd ~/repo
             chmod u+x circle_urls.sh
@@ -76,4 +76,4 @@ jobs:
       - run: *build_jekyll
       - store_artifacts:
           path: ~/repo/_site
-          destination: intersect-training.github.io
+          destination: EASI.github.io

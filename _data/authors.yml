@@ -13,5 +13,8 @@ cosden: # replace this with your info
   twitter: "@iancosden"
 carver:
   name: "Jeff Carver"
-  
+  siterole: "webmaster, developer, designer, PI"
+  uri: https://cosden.github.io/
+  email:
+  twitter: "@jeffcarver"
 # you can add more authors here

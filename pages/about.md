@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-meta_title: "INTERSECT Project"
+meta_title: "EASI Project"
 permalink: "/about/"
 ---
 
