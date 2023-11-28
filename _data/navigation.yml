@@ -26,6 +26,8 @@
   url: "/training-material/"
   side: left
   dropdown:
+    - title: "INTERSECT Curriculum"
+      url: "/curriculum/"
     - title: "Links to Existing Material"
       url: "/training-links/"
 
