@@ -31,7 +31,8 @@ author: cosden
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://intersect-training.github.io'
+# url: 'https://intersect-training.github.io'
+url: 'https://intersect-training.org'
 baseurl:
 
 
