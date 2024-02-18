@@ -12,6 +12,6 @@ image:
     homepage: intersect-poster.jpg
 ---
 
-We are excited to announce that we have opened [applications](https://docs.google.com/forms/d/e/1FAIpQLSdmmrhWNgvjx-H3qk72w9ifeu4s717Jo1EwTZpDj4pxjtTl4A/viewform?usp=sf_link) for the [2024 INTERSECT Bootcamp]({{site.url}}{{site.baseurl}}/bootcamp24/). 
+We are excited to announce that we have opened [applications](https://docs.google.com/forms/d/e/1FAIpQLSdlyBYOj7DnsYRNmQqkSCt2VMPTPTYlDxClyeQqWx7xh6OKqw/viewform?usp=sf_link) for the [2024 INTERSECT Bootcamp]({{site.url}}{{site.baseurl}}/bootcamp24/). 
 
 Please [contact us](https://intersect-training.org/contact/) for more details.
