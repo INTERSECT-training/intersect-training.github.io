@@ -48,7 +48,7 @@ Participants are expected to attend the entirety of the bootcamp.
 Failure to do so may result in a forfeiture of all or part of a travel grant.
 
 ## Cost & Funding
-The INTERSECT project, through a grant from the National Science Foundation, has funding to cover the food, travel, and lodging expenses for up to 25 attendees as a travel grant.
+The INTERSECT project, through a grant from the National Science Foundation, has funding to cover the food, travel, and lodging expenses for up to 30 attendees as a travel grant.
 This travel grant includes 5 nights of hotel plus up to $800 for transportation and food (reimbursed via Princeton University).
 In addition to those funded directly by the INTERSECT project, we will accept self-funded participants as space allows.
 
