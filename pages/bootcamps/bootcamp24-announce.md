@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "INTERSECT Bootcamp '24"
 subheadline: "Second INTERSECT Bootcamp"
-teaser: "July 15-19, Princeton University"
+teaser: "July 15-19, 2024 Princeton University"
 header:
 permalink: "/bootcamp24-announce/"
 ---
@@ -70,7 +70,7 @@ Applications will be reviewed independent of need for funding until all availabl
 [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSdlyBYOj7DnsYRNmQqkSCt2VMPTPTYlDxClyeQqWx7xh6OKqw/viewform?usp=sf_link).
 
 ## Timeline
-Applications Open: February 23, 2024  
+Applications Open: March 1, 2024  
 Applications Closed: March 31, 2024  
 Notification: April 26, 2024  
 Bootcamp: July 15-19, 2023  
