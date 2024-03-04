@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: "INTERSECT Bootcamp '23"
 subheadline: "First INTERSECT Bootcamp"
-teaser: "July 10-14, Princeton University"
+teaser: "July 10-14, 2023 Princeton University"
 header:
 permalink: "/bootcamp23/"
 ---
