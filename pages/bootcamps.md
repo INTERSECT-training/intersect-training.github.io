@@ -49,6 +49,6 @@ For those with less experience we recommend the excellent material from The Carp
 
 ### Registration
 
-More information for the 2023 INTERSECT bootcamp can be found on the [bootcamp23 page]( {{site.url}}{{site.baseurl}}/bootcamp23/).
+More information for the 2024 INTERSECT bootcamp can be found on the [bootcamp24 page]( {{site.url}}{{site.baseurl}}/bootcamp24/).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/participate/">Sign up for mailing list updates ›</a>

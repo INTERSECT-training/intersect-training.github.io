@@ -9,9 +9,11 @@ header:
 permalink: "/participate/"
 ---
 
+## Bootcamp 2024
+See the [Bootcamp24 page]({{ site.url }}{{ site.baseurl }}/bootcamp24) for details, participation options, and application information.
+
 ## Bootcamp 2023
 See the [Bootcamp23 page]({{ site.url }}{{ site.baseurl }}/bootcamp23) for details, participation options, and application information.
-
 
 ## Workshop 2022
 See the [Workshop22 page]({{ site.url }}{{ site.baseurl }}/workshop22/) for details and participation options for the [2022 INTERSECT Workshop]({{ site.url }}{{ site.baseurl }}/workshop22/).
