@@ -73,7 +73,7 @@ Applications will be reviewed independent of need for funding until all availabl
 Applications Open: March 1, 2024  
 Applications Closed: March 31, 2024  
 Notification: April 26, 2024  
-Bootcamp: July 15-19, 2023  
+Bootcamp: July 15-19, 2024  
 
 
 ## Questions
