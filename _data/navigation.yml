@@ -10,6 +10,8 @@
      url: "/overview/"
    - title: "Team"
      url: "/team/"
+   - title: "Contributors"
+     url: "/contributors/"
 
 - title: "Events"
   url: "/"

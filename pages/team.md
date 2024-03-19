@@ -23,3 +23,7 @@ header:
 * [Sandra Gesing](http://sandra-gesing.com/), Discovery Partner Institute at the University of Illinois Chicago
 * [Mozhgan Kabiri chimeh](http://mkchimeh.com/), NVIDIA
 * [Daniel S. Katz](http://danielskatz.org/), University of Illinois Urbana-Champaign
+
+
+## Contributors
+See the [contributors page]({{ site.url }}{{ site.baseurl }}/contributors/) for all those who have contributed to the INTERSECT curriculum and sponsored events. 
