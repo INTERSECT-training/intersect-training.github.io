@@ -53,7 +53,6 @@ This travel grant includes 5 nights of hotel plus up to $800 for transportation 
 In addition to those funded directly by the INTERSECT project, we will accept self-funded participants as space allows.
 
 During the workshop we will provide breakfast and lunch (M-F) for all participants (whether supported by INTERSECT or paying their own way).
-There will be two dinner receptions on Monday and Tuesday evening sponsored by Princeton Research Computing. 
 
 ## Eligibility
 
