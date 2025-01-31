@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "INTERSECT Bootcamp '25"
-subheadline: "Second INTERSECT Bootcamp"
+subheadline: "Third INTERSECT Bootcamp"
 teaser: "July 14-18, 2025 Princeton University"
 header:
 permalink: "/bootcamp25-announce/"
