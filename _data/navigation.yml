@@ -17,6 +17,8 @@
   url: "/"
   side: left
   dropdown:
+    - title: "Bootcamp25"
+      url: "/bootcamp25-announce/"
     - title: "Bootcamp24"
       url: "/bootcamp24/"
     - title: "Bootcamp23"
