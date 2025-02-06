@@ -9,6 +9,9 @@ header:
 permalink: "/participate/"
 ---
 
+## Bootcamp 2025
+See the [Bootcamp25 page]({{ site.url }}{{ site.baseurl }}/bootcamp25) for details, participation options, and application information.
+
 ## Bootcamp 2024
 See the [Bootcamp24 page]({{ site.url }}{{ site.baseurl }}/bootcamp24) for details, participation options, and application information.
 
