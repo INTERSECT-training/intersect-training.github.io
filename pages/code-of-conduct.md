@@ -5,19 +5,6 @@ permalink: "/code-of-conduct/"
 header:
 ---
 
-
-
-## Diversity Statement
-
-The INTERSECT project welcomes and encourages participation in our community by people of all backgrounds and identities. The INTERSECT project is committed to promoting and sustaining a culture that values mutual respect, tolerance, and learning. We work together as a community to help each other live out these values.
-
-We have created this diversity statement because we believe that a diverse community is stronger, more vibrant, and produces better
-software and better research. A diverse community where people treat each other with respect has more potential contributors,
-more sources for ideas, and fewer shared assumptions that might hinder the achievement of our goals.
-
-Although we have phrased the formal diversity statement generically to make it all-inclusive, we recognize that there are specific
-identities that are impacted by systemic discrimination and marginalization. We welcome all people to participate in INTERSECT activities regardless of their identity or background.
-
 ## Introduction & Scope
 
 This code of conduct should be honored by everyone who participates in INTERSECT activities. This code of conduct applies to all spaces managed by the INTERSECT project, including all public and private mailing lists, issue
@@ -33,6 +20,12 @@ to resolve the situation, including warning the person in question, removing the
 participation in activities (in person or online).
 
 ## Standards for Behavior
+
+The INTERSECT project welcomes and encourages participation in our community by people of all backgrounds and identities. The INTERSECT project is committed to promoting and sustaining a culture that values mutual respect, tolerance, and learning. We work together as a community to help each other live out these values.
+
+We believe that a community comprised of people with different perspectives and backgrounds is stronger, more vibrant, and produces better
+software and better research. A community where people treat each other with respect has more potential contributors,
+more sources for ideas, and fewer shared assumptions that might hinder the achievement of our goals.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Please always be
 kind and courteous. There is never a need to be mean, rude, or disrespectful. Thank you for helping make this a welcoming, friendly
