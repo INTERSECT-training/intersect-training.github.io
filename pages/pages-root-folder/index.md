@@ -8,20 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: header_code_01_cropped.jpg
 widget1:
-  title: "RSE Workshops"
-  url: /workshops
-  image: CodeReview.jpg
-  text: 'INTERSECT will sponsor annual workshops for Research Software Engineers to develop and refine training materials.'
-widget2:
   title: "RSE Bootcamps"
   url: /bootcamps
-  image: bootcamp-photo-1.jpg
+  image: bootcamp.jpg
   text: 'Week long, in-person, training events to introduce intermediate/advanced research software developers to Research Software Engineering concepts and techniques'
 widget3:
   title: "Training Material"
   url: /training-material
-  image: widget-github-larger.jpg
-  text: 'Curated training material will be available and open-source for the community to use locally and suggest changes'
+  image: curriculum.jpg
+  text: 'Curated open-source training material available for the community to use locally and suggest changes'
 #
 # Use the call for action to show a button on the frontpage
 #
