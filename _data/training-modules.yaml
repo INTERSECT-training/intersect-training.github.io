@@ -193,7 +193,7 @@
 - description: 'Module introducing basics of software design.'
   name: Software Design
   repository: https://github.com/INTERSECT-training/software-design
-  status: alpha
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/software-design/
   id: design
@@ -201,7 +201,7 @@
 - description: 'Module introducing Python packaging and distribution.'
   name: Packaging
   repository: https://github.com/INTERSECT-training/packaging
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/packaging/
   id: packaging
@@ -209,7 +209,7 @@
 - description: 'Module introducing collaborative git.'
   name: Collaborative Git
   repository: https://github.com/INTERSECT-training/collaborative-git
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/collaborative-git/
   id: collabgit
@@ -217,7 +217,7 @@
 - description: 'Module introducing issue tracking.'
   name: Issue Tracking
   repository: https://github.com/INTERSECT-training/Issue-Tracking
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/Issue-Tracking/
   id: issues
@@ -225,7 +225,7 @@
 - description: 'Module introducing how to make good pull requests.'
   name: Making Good PRs
   repository: https://github.com/INTERSECT-training/Making-Good-PRs
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/Making-Good-PRs/
   id: prs
@@ -233,7 +233,7 @@
 - description: 'Module introducing software licensing.'
   name: Licensing 
   repository: https://github.com/INTERSECT-training/software-licensing
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/software-licensing/
   id: licensing
@@ -241,7 +241,7 @@
 - description: 'Module introducing code review.'
   name: Code Review
   repository: https://github.com/INTERSECT-training/Code-Review
-  status: alpha
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/Code-Review/
   id: review
@@ -249,7 +249,7 @@
 - description: 'Module introducing basics of building a community around a software package.'
   name: Building a Community
   repository: https://github.com/INTERSECT-training/Building-A-Community
-  status: alpha
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/Building-A-Community/
   id: community
@@ -257,7 +257,7 @@
 - description: 'Module introducing basics of systematic, automated testing.'
   name: Testing
   repository: https://github.com/INTERSECT-training/testing-lesson
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/testing-lesson
   id: testing
@@ -265,7 +265,7 @@
 - description: 'Module introducing continuous integration and continuous developement (CI/CD).'
   name: CI/CD
   repository: https://github.com/INTERSECT-training/CI-CD
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/CI-CD/
   id: ci-cd
@@ -273,7 +273,7 @@
 - description: 'Module introducing documentation practices.'
   name: Documentation
   repository: https://github.com/INTERSECT-training/Documentation
-  status: beta
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/Documentation/
   id: documentation
@@ -281,7 +281,7 @@
 - description: 'Module introducing project management.'
   name: Project Management
   repository: https://github.com/INTERSECT-training/Project-Management
-  status: alpha
+  status: stable
   videos: ''
   webpage: https://intersect-training.org/Project-Management/
   id: project-management
