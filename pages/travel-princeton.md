@@ -79,5 +79,6 @@ station in Trenton and taking New Jersey Transit trains, as above.
   * Andrea has put together a [list of local restaurants](https://docs.google.com/spreadsheets/d/1w3xUT2NnCyQZfM1uYv1Vfx4HNACUBg7zwKNB2Z5tVSA/edit?gid=0#gid=0). Please remember that we can only reimburse for meals we don’t provide.  And please be mindful of the costs of the restaurants and the reimbursement guidelines.
 3. **How will reimbursement work?**
   * Participants will be sent reimbursement guidelines and instructions via email.
+  * Don't forget to keep itemized receipts for everything! (A credit card receipt showing only the total is not sufficient) 
   * Please keep in mind that this event is being paid for by an NSF grant. It is is being organized with limited financial and human capital during a period of unprecedented federal scrutiny. We ask that you please understand this as you submit your expenses.
 
