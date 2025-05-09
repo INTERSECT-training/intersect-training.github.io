@@ -8,7 +8,7 @@ permalink: "/travel-princeton/"
 
 
 ## General Notes
-A hotel block has been reserved at the Nassau Inn in Princeton, NJ, located adjacent to
+A hotel block has been reserved at the [Nassau Inn](https://nassauinn.com/) in Princeton, NJ, located adjacent to
 the Princeton University campus.  
 The 2025 Bootcamp will be held on campus in Jadwin Hall and Lewis Library.
 It may be useful to review the [University webpages](http://www.princeton.edu/main/visiting/) about traveling to and visiting Princeton.
@@ -66,3 +66,18 @@ From a small number of locations it may also be possible to fly to
 Trenton-Mercer Airport. Getting from there to the Princeton campus is more
 complicated and involves using an Uber or Lyft, buses, and/or going to the train
 station in Trenton and taking New Jersey Transit trains, as above.  
+
+
+## FAQs
+
+1. **How does the hotel block work?**
+  * If you indicated that you would like us to book a hotel we have a room block at the [Nassau Inn](https://nassauinn.com/). As long as you indicated you will be staying at our room block, assume you are on the requested room list.
+  * If you indicated that you are (a) local or (b) self-funded and prefer to stay elsewhere, you have not been added to the room block.
+  * However, if you are not self-funded and not local and need to stay at a hotel the only hotel you will be allowed to stay out will be the Nassau Inn, since we have contracted a room block. We will not reimburse outside the room block.
+  * The process is as follows: we provide a list of names to the Nassau Inn by June 11th.  The Nassau Inn will then send a list of confirmations back to us.  Andrea will send the confirmations to each participant with information on check-in and check-out around two weeks before the bootcamp.
+2. **Where is there to eat? Especially on Sunday when I arrive?**
+  * Andrea has put together a [list of local restaurants](https://docs.google.com/spreadsheets/d/1w3xUT2NnCyQZfM1uYv1Vfx4HNACUBg7zwKNB2Z5tVSA/edit?gid=0#gid=0). Please remember that we can only reimburse for meals we don’t provide.  And please be mindful of the costs of the restaurants and the reimbursement guidelines.
+3. **How will reimbursement work?**
+  * Participants will be sent reimbursement guidelines and instructions via email.
+  * Please keep in mind that this event is being paid for by an NSF grant. It is is being organized with limited financial and human capital during a period of unprecedented federal scrutiny. We ask that you please understand this as you submit your expenses.
+
