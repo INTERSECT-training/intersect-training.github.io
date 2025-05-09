@@ -73,7 +73,7 @@ station in Trenton and taking New Jersey Transit trains, as above.
 1. **How does the hotel block work?**
   * If you indicated that you would like us to book a hotel we have a room block at the [Nassau Inn](https://nassauinn.com/). As long as you indicated you will be staying at our room block, assume you are on the requested room list.
   * If you indicated that you are (a) local or (b) self-funded and prefer to stay elsewhere, you have not been added to the room block.
-  * However, if you are not self-funded and not local and need to stay at a hotel the only hotel you will be allowed to stay out will be the Nassau Inn, since we have contracted a room block. We will not reimburse outside the room block.
+  * However, if you are not self-funded and not local and need to stay at a hotel, the only hotel you will be allowed to use is the Nassau Inn, since we have contracted a room block. We will not reimburse outside the room block.
   * The process is as follows: we provide a list of names to the Nassau Inn by June 11th.  The Nassau Inn will then send a list of confirmations back to us.  Andrea will send the confirmations to each participant with information on check-in and check-out around two weeks before the bootcamp.
 2. **Where is there to eat? Especially on Sunday when I arrive?**
   * Andrea has put together a [list of local restaurants](https://docs.google.com/spreadsheets/d/1w3xUT2NnCyQZfM1uYv1Vfx4HNACUBg7zwKNB2Z5tVSA/edit?gid=0#gid=0). Please remember that we can only reimburse for meals we don’t provide.  And please be mindful of the costs of the restaurants and the reimbursement guidelines.
