@@ -87,20 +87,13 @@ Participants may use this time to explore the area, connect with other participa
 During the workshop we will provide breakfast and lunch (M-F) for all participants.
 Dinner will be provided on Monday and Tuesday, other days are on your own.
 
-# Target Audience
-The bootcamp is primarily geared towards those who self-identify as intermediate research software developers with backgrounds in a research domain other than computer science.
-This includes graduate students, postdoctoral researchers, early career professionals, and many others.
-The ideal participants are those who, after some hands-on experience writing code, are looking for more software development training to either prepare them for a career writing research software or to be a more efficient developer.
-In either case, attendees should have a strong interest in developing research software in the future.
-
+# Preparation
 We expect attendees to come with a basic background in programming.
 Previous, formal computer science (CS) training is specifically not a prerequisite.
 Rather, we expect many, if not most attendees to be self-taught programmers coming from non-CS domains.
 Where possible, we will aim to keep instruction uncoupled from specific languages or technologies.
 Because this is nearly impossible, we expect attendees to have a working knowledge of python, basic git commands and functionality, competency with an editor, and experience working with the command line.
 Additionally, participants should be comfortable managing their own development environment on their laptop.
-
-Our INTERSECT [learner profiles]({{ site.url }}{{ site.baseurl }}/learner-profiles/) provide examples of the types of people for whom this workshop is appropriate.
 
 <a name="sponsors"></a>
 # Sponsors
