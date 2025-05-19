@@ -109,7 +109,3 @@ Thanks to [Princeton Research Computing](https://researchcomputing.princeton.edu
 
 # Questions
 Please email Ian Cosden (icosden@princeton.edu) and/or Jeff Carver (carver@cs.ua.edu).
-
-
-# Questions
-Please email Ian Cosden (icosden@princeton.edu) and/or Jeff Carver (carver@cs.ua.edu).
