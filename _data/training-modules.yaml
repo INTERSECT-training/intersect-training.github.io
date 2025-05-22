@@ -256,10 +256,10 @@
 
 - description: 'Module introducing basics of systematic, automated testing.'
   name: Testing
-  repository: https://github.com/INTERSECT-training/testing-lesson
+  repository: https://github.com/INTERSECT-training/testing
   status: stable
   videos: ''
-  webpage: https://intersect-training.org/testing-lesson
+  webpage: https://intersect-training.org/testing
   id: testing
 
 - description: 'Module introducing continuous integration and continuous developement (CI/CD).'
