@@ -10,9 +10,9 @@ permalink: "/bootcamp25/"
 The INTERSECT Research Software Engineering Bootcamp will be a 4.5 day intensive hands-on workshop focusing on practices that will help research software developers improve the quality, reproducibility, and sustainability of their software.  
 
 # Agenda
-A prelimary agenda is below.
 
-All instruction sessions will take place at Princeton University,  Room A06 [Jadwin Hall](https://maps.app.goo.gl/cytnjbtmZfsFqzSV7).
+All instruction sessions will take place at Princeton University, PCTS, [Jadwin Hall](
+https://goo.gl/maps/1KaqFUzJzxG974AQ8?coh=178573&entry=tt), 4th floor.
 
 ### Day 1 - Monday, July 14
 
