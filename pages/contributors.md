@@ -14,14 +14,14 @@ Matt Armstrong, University of Alabama
 David Bernholdt, Oak Ridge National Laboratory  
 Abhishek Biswas, Princeton University  
 Sunita Chandrasekaran, University of Delaware  
-Troy Comi, Princeton University
+Troy Comi, Princeton University  
 Julia Damerow, Arizona State University  
 George Dang, Brown University  
 Anshu Dubey, Argonne National Laboratory  
 Jamil Gafur, University of Iowa/NREL  
 Jonathan Halverson, Princeton Univeristy  
 Bill Hasling, Princeton University  
-John Holland, Brown University
+John Holland, Brown University  
 Upulee Kanewala, University of North Florida  
 Marshall McDonnell, Oak Ridge National Laboratory  
 Miranda Mundt, Sandia National Laboratories  
