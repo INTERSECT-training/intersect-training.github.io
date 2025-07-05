@@ -19,7 +19,7 @@ Julia Damerow, Arizona State University
 George Dang, Brown University  
 Anshu Dubey, Argonne National Laboratory  
 Jamil Gafur, University of Iowa/NREL  
-Jonathan Halverson, Princeton Univeristy  
+Jonathan Halverson, Princeton University  
 Bill Hasling, Princeton University  
 John Holland, Brown University  
 Upulee Kanewala, University of North Florida  
