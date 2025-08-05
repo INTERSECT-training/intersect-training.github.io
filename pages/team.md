@@ -20,7 +20,7 @@ header:
 * [Peter Elmer](https://scholar.princeton.edu/elmer), Princeton University / Institute for Research and Innovation in Software for High-Energy Physics (IRIS-HEP)
 * [Sandra Gesing](http://sandra-gesing.com/), US Research Software Engineer Association (US-RSE) & San Diego Supercomputer Center
 * [Daniel S. Katz](http://danielskatz.org/), University of Illinois Urbana-Champaign
-* Lauren Milichen, MIT
+* Lauren Milechin, MIT
 * Miranda Mundt, Sandia National Laboratories
 
 ## Former Advisory Board Members
