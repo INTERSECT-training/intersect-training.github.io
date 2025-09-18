@@ -29,7 +29,7 @@ Lauren E Milechin, MIT
 Niaz Morshed, University of Alabama  
 Kyle Niemeyer, Oregon State University  
 Gabe Perez-Giz, New York University  
-Abbey Roloefs, University of Michigan  
+Abbey Roelofs, University of Michigan  
 David Rumph, Caltech  
 Henry Schreiner, Princeton University  
 
