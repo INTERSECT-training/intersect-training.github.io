@@ -65,7 +65,7 @@ Applications will be reviewed independent of need for funding until all availabl
 
 ## Application
 
-Application form will be available on Februrary 2, 2026
+[Apply here](https://docs.google.com/forms/d/e/1FAIpQLScIJV2S4RcRsuitEjUoHxISb01UVY9f7ULz8zAr3QZrrN6Plw/viewform?usp=dialog)
 
 ## Timeline
 Applications Open: February 2, 2026  
