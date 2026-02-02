@@ -9,6 +9,10 @@ header:
 permalink: "/participate/"
 ---
 
+## Bootcamp 2026
+See the [Bootcamp26 page]({{ site.url }}{{ site.baseurl }}/bootcamp26-announce) for details, participation options, and application information.
+
+
 ## Ways to participate
 1. Bootcamps - If you have a baseline knowledge and are looking to expand your research software engineering skill set
 1. Contributions to INTERSECT Curriculum - Visit [Curriculum Page](https://intersect-training.org/curriculum/) to suggest changes to the INTERSECT modules
