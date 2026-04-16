@@ -97,7 +97,7 @@ Additionally, participants should be comfortable managing their own development 
 <a name="sponsors"></a>
 # Sponsors
 Travel funding is provided via NSF.  
-Thanks to the [Princeton AI Lab]((https://ai.princeton.edu/ai-lab)) for fully supporting the Tuesday evening reception and [Princeton Research Computing](https://researchcomputing.princeton.edu/) for supporting the Monday evening reception.
+Thanks to the [Princeton AI Lab](https://ai.princeton.edu/ai-lab) for fully supporting the Tuesday evening reception and [Princeton Research Computing](https://researchcomputing.princeton.edu/) for supporting the Monday evening reception.
 
 # Questions
 Please email Ian Cosden (icosden@princeton.edu) and/or Jeff Carver (carver@cs.ua.edu).
