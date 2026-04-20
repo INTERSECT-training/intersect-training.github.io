@@ -26,7 +26,7 @@ All instruction sessions will take place at Princeton University, Room 138 [Lewi
 | 1:15 - 3:00 | Design Part 2 | Abbey Roelofs |
 | 3:00 - 3:15 | Break | |
 | 3:15 - 4:45 | Licensing | TBD |
-| 5:00 - 7:00 | Welcome Reception & Dinner | TBD |
+| 5:00 - 7:00 | Welcome Reception & Dinner | |
 
 *The Monday evening reception & dinner is [sponsored](#sponsors) by [Princeton Research Computing](https://researchcomputing.princeton.edu/).
 
