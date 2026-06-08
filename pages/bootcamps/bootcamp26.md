@@ -26,7 +26,7 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 1:15 - 3:00 | Design Part 2 | Abbey Roelofs |
 | 3:00 - 3:15 | Break | |
 | 3:15 - 4:45 | Licensing | George Dang |
-| 5:00 - 7:00 | Welcome Reception & Dinner | |
+| 5:00 - 7:00 | Welcome Reception & Dinner at [Briger Commons - D102 Cafe](https://mediacentral.princeton.edu/media/Directions%20to%20Briger%20Hall%20D119%20(Commons%20Visualization%20Lab)%20from%20Princeton%20Stadium/1_iyiuzyvr) | |
 
 *The Monday evening reception & dinner is [sponsored](#sponsors) by [Princeton Research Computing](https://researchcomputing.princeton.edu/).
 
