@@ -28,7 +28,7 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 3:30 - 5:00 | Licensing | George Dang |
 | 5:00 - 7:00 | Welcome Reception & Dinner <br> [Briger Commons - D102 Cafe](https://mediacentral.princeton.edu/media/Directions%20to%20Briger%20Hall%20D119%20(Commons%20Visualization%20Lab)%20from%20Princeton%20Stadium/1_iyiuzyvr) | |
 
-*The Monday evening reception & dinner is [sponsored](#sponsors) by [Princeton Research Computing](https://researchcomputing.princeton.edu/).
+*The Monday evening reception & dinner is [sponsored](#sponsors) by the [Princeton AI Lab](https://ai.princeton.edu/ai-lab) and [Princeton Research Computing](https://researchcomputing.princeton.edu/).
 
 ### Day 2 - Tuesday, July 14
 
