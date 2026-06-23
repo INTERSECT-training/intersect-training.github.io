@@ -17,15 +17,15 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 
 | Time | Session Title | Instructor(s) |
 | 8:00 - 8:45 | Registration & Breakfast |   |
-| 8:45 - 9:00 | Welcome & Introduction | Ian Cosden & Jeff Carver |
-| 9:00 - 10:15 | Project Management Part 1 | Miranda Mundt |
-| 10:15 - 10:30 | Break | |
-| 10:30 - 11:15 | Project Management Part 2 | Miranda Mundt |
-| 11:15 - 12:15 | Design Part 1 | Abbey Roelofs |
-| 12:15 - 1:15 | Lunch |  |
-| 1:15 - 3:00 | Design Part 2 | Abbey Roelofs |
-| 3:00 - 3:15 | Break | |
-| 3:15 - 4:45 | Licensing | George Dang |
+| 8:45 - 9:15 | Welcome & Introduction | Ian Cosden & Jeff Carver |
+| 9:15 - 10:30 | Project Management Part 1 | Miranda Mundt |
+| 10:30 - 10:45 | Break | |
+| 10:45 - 11:30 | Project Management Part 2 | Miranda Mundt |
+| 11:30 - 12:30 | Design Part 1 | Abbey Roelofs |
+| 12:30 - 1:30 | Lunch |  |
+| 1:30 - 3:15 | Design Part 2 | Abbey Roelofs |
+| 3:15 - 3:30 | Break | |
+| 3:30 - 5:00 | Licensing | George Dang |
 | 5:00 - 7:00 | Welcome Reception & Dinner <br> [Briger Commons - D102 Cafe](https://mediacentral.princeton.edu/media/Directions%20to%20Briger%20Hall%20D119%20(Commons%20Visualization%20Lab)%20from%20Princeton%20Stadium/1_iyiuzyvr) | |
 
 *The Monday evening reception & dinner is [sponsored](#sponsors) by [Princeton Research Computing](https://researchcomputing.princeton.edu/).
