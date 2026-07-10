@@ -53,12 +53,13 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 8:30 - 9:00 | Breakfast |  |
 | 9:00 - 10:30 | Code Review Part 1 | Abbey Roelofs |
 | 10:30 - 10:45 | Break |  |
-| 10:45 - 12:15 | Code Review Part 2 | Abbey Roelofs |
-| 12:15 - 12:30 | Group Photo |  |
-| 12:30 - | Lunch |  |
+| 10:45 - 11:00 | Group Photo |  |
+| 11:00 - 12:30 | Code Review Part 2 | Abbey Roelofs |
+| 12:30 - 1:30 | Lunch |  |
+| 1:15 - 2:45 | Optional: AI Tools for Software Engineering | Jonathan Hanke |
 
-*Note: no formal bootcamp activities are planned for Wednesday afternoon.
-Participants may use this time to explore the area, connect with other participants, or just decompress.
+*Note: no formal bootcamp activities are planned for Wednesday afternoon, however an optional pilot session on AI tools will be offered. 
+Otherwise, participants may use this time to explore the area, connect with other participants, or just decompress.
 
 ### Day 4 - Thursday, July 16
 
