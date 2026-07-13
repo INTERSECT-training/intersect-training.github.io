@@ -6,10 +6,10 @@ permalink: "/curriculum/"
 
 ## The modules
 
-### Basics
+### Core Curriculum
 
 
-{% include list_of_selected_training_modules.html ids="design,packaging,collabgit,issues,prs,licensing,review,community,testing,ci-cd,documentation,project-management" %}
+{% include list_of_selected_training_modules.html ids="community,ci-cd,review,collabgit,documentation,issues,licensing,prs,packaging,project-management,design,testing" %}
 
 
 
