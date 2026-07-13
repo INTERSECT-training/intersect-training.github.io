@@ -9,7 +9,7 @@ permalink: "/curriculum/"
 ### Core Curriculum
 
 
-{% include list_of_selected_training_modules.html ids="ci-cd","review","collabgit","community","design","documentation","issues","licensing","packaging","project-management","prs","testing" %}
+{% include list_of_selected_training_modules.html ids="ci-cd,review,collabgit,community,design,documentation,issues,licensing,packaging,project-management,prs,testing" %}
 
 
 
