@@ -4,8 +4,6 @@ layout : page
 permalink: "/curriculum/" 
 ---
 
-## The modules
-
 ### Core Curriculum
 
 
