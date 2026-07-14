@@ -286,6 +286,12 @@
   webpage: https://intersect-training.org/Project-Management/
   id: project-management
 
-
+- description: 'Security Essentials workshop for research software.'
+  name: Threat Assessment
+  repository: https://github.com/INTERSECT-training/threat-assessment
+  status: alpha
+  videos: ''
+  webpage: http://intersect-training.org/threat-assessment/
+  id: threat-assessment
   
 
