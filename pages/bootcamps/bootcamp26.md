@@ -43,7 +43,7 @@ All instruction sessions will take place at Princeton University, Room 120 [Lewi
 | 2:00 - 3:00 | Making Good PRs | Miranda Mundt |
 | 3:00 - 3:15 | Break | |
 | 3:15 - 4:45 | Better Documentation | Miranda Mundt |
-| 6:00 - 9:00 | Reception Dinner at [Palmer House](https://palmerhouse.princeton.edu/)|  |
+| 6:00 - 8:00 | Reception Dinner at [Palmer House](https://palmerhouse.princeton.edu/)|  |
 
 *The Tuesday evening reception dinner is [sponsored](#sponsors) by the [Princeton AI Lab](https://ai.princeton.edu/ai-lab).
 
